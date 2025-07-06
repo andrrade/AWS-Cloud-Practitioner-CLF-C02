@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="../assets/analytics/Athenaa.png" alt="img" width="100"><br>
   <h3>Amazon Athena</h3>
+  <img src="../assets/analytics/Athenaa.png" alt="img" width="100"><br>
 </div><br>
 
 [Documentação](https://aws.amazon.com/pt/athena/)
 
 Amazon Athena is a serverless, interactive analytics service that provides a simplified and flexible way to analyze petabytes of data where it lives. 
-
-<div align="center">
-  <h4>Principais características</h4>
-</div>
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -35,8 +31,8 @@ Amazon Athena is a serverless, interactive analytics service that provides a sim
 ---
 
 <div align="center">
-  <img src="../assets/analytics/EMR.png" alt="img" width="100"><br>
   <h3>Amazon EMR</h3>
+  <img src="../assets/analytics/EMR.png" alt="img" width="100"><br>
 </div><br>
 
 Amazon EMR is a cloud big data platform for running large-scale distributed data processing jobs, interactive SQL queries, and machine learning applications using open-source analytics frameworks such as Apache Spark, Apache Hive, and Presto.
@@ -64,8 +60,8 @@ Amazon EMR is a cloud big data platform for running large-scale distributed data
 ---
 
 <div align="center">
-  <img src="../assets/analytics/Gluee.png" alt="img" width="100"><br>
   <h3>AWS Glue</h3>
+  <img src="../assets/analytics/Gluee.png" alt="img" width="100"><br>
 </div><br>
 
 AWS Glue is a serverless data integration service that makes it easy to discover, prepare, integrate, and modernize the extract, transform, and load (ETL) process.
@@ -93,13 +89,13 @@ AWS Glue is a serverless data integration service that makes it easy to discover
 ---
 
 <div align="center">
-  <img src="../assets/analytics/Kinesiss.png" alt="img" width="100"><br>
   <h3>Amazon Kinesis</h3>
+  <img src="../assets/analytics/Kinesiss.png" alt="img" width="100"><br>
 </div><br>
 
-Collect streaming data, create a real-time data pipeline, and analyze real-time video and data streams, log analytics, event analytics, and IoT analytics.
-
 [Documentação](https://aws.amazon.com/pt/kinesis/)
+
+Collect streaming data, create a real-time data pipeline, and analyze real-time video and data streams, log analytics, event analytics, and IoT analytics.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -126,9 +122,9 @@ Collect streaming data, create a real-time data pipeline, and analyze real-time 
   <h3>Amazon OpenSearch Service</h3>
 </div><br>
 
-Unlock fast and scalable search, monitoring, and analysis for log analytics and website search by deploying and running OpenSearch and ALv2 Elasticsearch.
-
 [Documentação](https://aws.amazon.com/pt/opensearch-service/)
+
+Unlock fast and scalable search, monitoring, and analysis for log analytics and website search by deploying and running OpenSearch and ALv2 Elasticsearch.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -151,13 +147,13 @@ Unlock fast and scalable search, monitoring, and analysis for log analytics and 
 ---
 
 <div align="center">
-  <img src="../assets/analytics/QuickSight.png" alt="img" width="100"><br>
   <h3>Amazon QuickSight</h3>
+  <img src="../assets/analytics/QuickSight.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon QuickSight is a cloud-native, serverless, business intelligence with native ML integrations and usage-based pricing, allowing insights for all users.
-
 [Documentação](https://aws.amazon.com/pt/quicksight/)
+
+Amazon QuickSight is a cloud-native, serverless, business intelligence with native ML integrations and usage-based pricing, allowing insights for all users.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -180,13 +176,13 @@ Amazon QuickSight is a cloud-native, serverless, business intelligence with nati
 ---
 
 <div align="center">
-  <img src="../assets/analytics/Redshiftt.png" alt="img" width="100"><br>
   <h3>Amazon Redshift</h3>
+  <img src="../assets/analytics/Redshiftt.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Redshift uses SQL to analyze structured and semi-structured data across data warehouses, operational databases, and data lakes, using AWS-designed hardware and machine learning to deliver the best price performance at any scale.
-
 [Documentação](https://aws.amazon.com/pt/redshift/)
+
+Amazon Redshift uses SQL to analyze structured and semi-structured data across data warehouses, operational databases, and data lakes, using AWS-designed hardware and machine learning to deliver the best price performance at any scale.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
