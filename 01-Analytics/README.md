@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="../assets/analytics/Athenaa.png" alt="img" width="100"><br>
   <h3>Amazon Athena</h3>
+  <img src="../assets/analytics/Athenaa.png" alt="img" width="100"><br>
 </div><br>
 
 Amazon Athena is a serverless, interactive analytics service that provides a simplified and flexible way to analyze petabytes of data where it lives.
