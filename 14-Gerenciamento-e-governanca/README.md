@@ -401,3 +401,89 @@ AWS Systems Manager provides an operations console and APIs for centralized appl
   -  🔹 “Qual serviço centraliza gerenciamento de infraestrutura?”
 - 💰 **Como é cobrado:**
   -  🔹 Gratuito; paga pelos recursos usados
+
+---
+
+<div align="center">
+  <h3>AWS Trusted Advisor</h3>
+  <img src="../assets/gerenciamento-e-governanca/Trusted Advisor.png" alt="img" width="100"><br>
+</div><br>
+
+[Documentação](https://aws.amazon.com/pt/premiumsupport/technology/trusted-advisor/)
+
+AWS Support provides support for users of Amazon Web Services.
+
+- **Modelo:** SaaS  
+- **Híbrido:** ✅  
+- **Totalmente gerenciado pela AWS:** ✅  
+- **Sem servidor:** ✅  
+- **Escopo:** Regional (a depender da verificação feita)  
+- **Opera:** Nível de gerenciamento – Análise de boas práticas operacionais  
+- **Shared Model:**  
+  - 🔹 AWS fornece as recomendações e infraestrutura  
+  - 🔹 Você aplica ou não as sugestões  
+- **Características:**  
+  - Recomendações de segurança  
+  - Performance  
+  - Economia  
+  - Tolerância a falhas  
+  - Limites de serviço  
+- **Palavras-chave:**  
+  - Otimização  
+  - Recomendações  
+  - Boas práticas  
+  - Segurança  
+  - Custos  
+- **Exemplo:**  
+  - É como um consultor virtual que revisa sua conta AWS e dá dicas do que melhorar.  
+- 📝 **Como cai na prova:**  
+  - 🔹 “Quer ajuda para seguir boas práticas de segurança e reduzir custos...”  
+  - 🔹 “Ferramenta que analisa sua conta e recomenda melhorias...”  
+- 💰 **Como é cobrado:**  
+  - 🔹 Algumas verificações são gratuitas  
+  - 🔹 Verificações adicionais com plano de suporte Business ou Enterprise
+
+---
+
+<div align="center">
+  <h3>AWS Well-Architected Tool</h3>
+  <img src="../assets/gerenciamento-e-governanca/Well Architected Tool.png" alt="img" width="100"><br>
+</div><br>
+
+[Documentação](https://aws.amazon.com/pt/well-architected-tool/)
+
+Learn architectural best practices, improve your workloads, and track progress over time with the AWS Well-Architected Tool
+
+- **Modelo:** SaaS  
+- **Híbrido:** ✅  
+- **Totalmente gerenciado pela AWS:** ✅  
+- **Sem servidor:** ✅  
+- **Escopo:** Regional  
+- **Opera:** Nível de arquitetura – Planejamento e avaliação de workloads  
+- **Shared Model:**  
+  - 🔹 AWS oferece o framework e a ferramenta  
+  - 🔹 Você avalia e ajusta sua arquitetura  
+- **Características:**  
+  - Avaliação estruturada de workloads  
+  - Recomendações por pilar  
+  - Insights para melhoria contínua  
+- **Palavras-chave:**  
+  - Arquitetura  
+  - Avaliação  
+  - Melhoria contínua  
+  - Pilares  
+- **Pilares do Framework:**  
+  - **Operações:** Automação, monitoramento  
+  - **Segurança:** Proteção de dados, controle de acesso  
+  - **Confiabilidade:** Recuperação, escalabilidade  
+  - **Performance:** Eficiência, otimização  
+  - **Otimização de custos:** Uso eficiente de recursos  
+  - **Sustentabilidade:** Redução de impacto ambiental  
+- **Exemplo:**  
+  - É como uma checklist que mostra se sua aplicação segue boas práticas arquitetônicas e onde pode melhorar.  
+- 📝 **Como cai na prova:**  
+  - 🔹 “Quer verificar se sua arquitetura está bem planejada...”  
+  - 🔹 “Ferramenta para avaliar workloads com base em pilares...”  
+- 💰 **Como é cobrado:**  
+  - 🔹 Gratuito
+  
