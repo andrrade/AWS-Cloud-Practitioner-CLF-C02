@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="../assets/integracao-de-aplicacoes/EventBridge.png" alt="img" width="100"><br>
   <h3>Amazon EventBridge</h3>
+  <img src="../assets/integracao-de-aplicacoes/EventBridge.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon EventBridge is a serverless event bus that ingests data from your own apps, SaaS apps, and AWS services and routes that data to targets.
-
 [Documentação](https://aws.amazon.com/pt/eventbridge/)
+
+Amazon EventBridge is a serverless event bus that ingests data from your own apps, SaaS apps, and AWS services and routes that data to targets.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -28,13 +28,13 @@ Amazon EventBridge is a serverless event bus that ingests data from your own app
 ---
 
 <div align="center">
-  <img src="../assets/integracao-de-aplicacoes/Simple Notification Service.png" alt="img" width="100"><br>
   <h3>Amazon Simple Notification Service (SNS)</h3>
+  <img src="../assets/integracao-de-aplicacoes/Simple Notification Service.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon SNS is a managed messaging service for communication, allowing messaging between decoupled microservices applications or directly to users with SMS texts, mobile push, and email.
-
 [Documentação](https://aws.amazon.com/pt/sns/)
+
+Amazon SNS is a managed messaging service for communication, allowing messaging between decoupled microservices applications or directly to users with SMS texts, mobile push, and email.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -57,13 +57,13 @@ Amazon SNS is a managed messaging service for communication, allowing messaging 
 ---
 
 <div align="center">
-  <img src="../assets/integracao-de-aplicacoes/Simple Queue Service.png" alt="img" width="100"><br>
   <h3>Amazon Simple Queue Service (SQS)</h3>
+  <img src="../assets/integracao-de-aplicacoes/Simple Queue Service.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon SQS fully managed message queuing makes it easy to decouple and scale microservices, distributed systems, and serverless applications.
-
 [Documentação](https://aws.amazon.com/sqs)
+
+Amazon SQS fully managed message queuing makes it easy to decouple and scale microservices, distributed systems, and serverless applications.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -86,13 +86,13 @@ Amazon SQS fully managed message queuing makes it easy to decouple and scale mic
 ---
 
 <div align="center">
-  <img src="../assets/integracao-de-aplicacoes/Step Functions.png" alt="img" width="100"><br>
   <h3>AWS Step Functions</h3>
+  <img src="../assets/integracao-de-aplicacoes/Step Functions.png" alt="img" width="100"><br>
 </div><br>
 
-AWS Step Functions lets you orchestrate multiple AWS services into serverless workflows so that you can build and update applications quickly.
-
 [Documentação](https://aws.amazon.com/step-functions)
+
+AWS Step Functions lets you orchestrate multiple AWS services into serverless workflows so that you can build and update applications quickly.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
