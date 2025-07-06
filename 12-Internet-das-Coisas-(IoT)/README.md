@@ -1,24 +1,24 @@
 ### **AWS IoT Core**
 
-**Modelo:** PaaS
-**Híbrido:** ✅
-**Totalmente gerenciado pela AWS:** ✅
-**Sem servidor:** ✅
-**Escopo:** Regional
-**Opera:** Nível de aplicação – Conexão e gerenciamento de dispositivos IoT
-**Shared Model:**
- 🔹 AWS gerencia infraestrutura, conexão segura e mensagens
- 🔹 Você gerencia dispositivos, regras e dados
-
-**Características:** Conectividade segura, mensagens MQTT, regras e ações automatizadas
-
-**Palavras-chave:** IoT, dispositivos, MQTT, mensagens
-
-**Exemplo:** É como uma central que conecta vários aparelhos inteligentes para falar com a nuvem.
-
-📝 **Como cai na prova:**
- 🔹 “Quer conectar dispositivos IoT de forma segura...”
- 🔹 “Qual serviço gerencia comunicação e dados de IoT?”
-
-💰 **Como é cobrado:**
- 🔹 Por número de mensagens enviadas e recebidas
+- **Modelo:** PaaS
+- **Híbrido:** ✅
+- **Totalmente gerenciado pela AWS:** ✅
+- **Sem servidor:** ✅
+- **Escopo:** Regional
+- **Opera:** Nível de aplicação – Conexão e gerenciamento de dispositivos IoT
+- **Shared Model:**
+-  🔹 AWS gerencia infraestrutura, conexão segura e mensagens
+-  🔹 Você gerencia dispositivos, regras e dados
+- 
+- **Características:** Conectividade segura, mensagens MQTT, regras e ações automatizadas
+- 
+- **Palavras-chave:** IoT, dispositivos, MQTT, mensagens
+- 
+- **Exemplo:** É como uma central que conecta vários aparelhos inteligentes para falar com a nuvem.
+- 
+- 📝 **Como cai na prova:**
+-  🔹 “Quer conectar dispositivos IoT de forma segura...”
+-  🔹 “Qual serviço gerencia comunicação e dados de IoT?”
+- 
+- 💰 **Como é cobrado:**
+-  🔹 Por número de mensagens enviadas e recebidas
