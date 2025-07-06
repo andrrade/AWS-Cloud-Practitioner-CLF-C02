@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="../assets/ferramentas-do-desenvolvedor/Command Line Interface.png" alt="img" width="100"><br>
   <h3>AWS CLI (Command Line Interface)</h3>
+  <img src="../assets/ferramentas-do-desenvolvedor/Command Line Interface.png" alt="img" width="100"><br>
 </div><br>
 
-The AWS Command Line Interface (AWS CLI) is a unified tool that provides a consistent interface for interacting with all parts of Amazon Web Services.
-
 [Documentação](https://aws.amazon.com/pt/cli/)
+
+The AWS Command Line Interface (AWS CLI) is a unified tool that provides a consistent interface for interacting with all parts of Amazon Web Services.
 
 - **Modelo:** Ferramenta (Client-side)
 - **Híbrido:** ✅ (acessa recursos locais e AWS)
@@ -28,13 +28,13 @@ The AWS Command Line Interface (AWS CLI) is a unified tool that provides a consi
 ---
 
 <div align="center">
-  <img src="../assets/ferramentas-do-desenvolvedor/CodeBuild.png" alt="img" width="100"><br>
   <h3>AWS CodeBuild</h3>
+  <img src="../assets/ferramentas-do-desenvolvedor/CodeBuild.png" alt="img" width="100"><br>
 </div><br>
 
-Build and test code with automatic scaling, and pay only for the build minutes you use.
-
 [Documentação](https://aws.amazon.com/pt/codebuild/)
+
+Build and test code with automatic scaling, and pay only for the build minutes you use.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -57,13 +57,13 @@ Build and test code with automatic scaling, and pay only for the build minutes y
 ---
 
 <div align="center">
-  <img src="../assets/ferramentas-do-desenvolvedor/CodePipeline.png" alt="img" width="100"><br>
   <h3>AWS CodePipeline</h3>
+  <img src="../assets/ferramentas-do-desenvolvedor/CodePipeline.png" alt="img" width="100"><br>
 </div><br>
 
-AWS CodePipeline automates the build, test, and deploy phases of your release process each time a code change occurs.
-
 [Documentação](https://aws.amazon.com/pt/codepipeline/)
+
+AWS CodePipeline automates the build, test, and deploy phases of your release process each time a code change occurs.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -86,13 +86,13 @@ AWS CodePipeline automates the build, test, and deploy phases of your release pr
 ---
 
 <div align="center">
-  <img src="../assets/ferramentas-do-desenvolvedor/X Ray.png" alt="img" width="100"><br>
   <h3>AWS X-Ray</h3>
+  <img src="../assets/ferramentas-do-desenvolvedor/X Ray.png" alt="img" width="100"><br>
 </div><br>
 
-AWS X-Ray helps you debug and analyze your microservices applications with request tracing so you can find the root cause of issues and performance bottlenecks.
-
 [Documentação](https://aws.amazon.com/pt/xray/)
+
+AWS X-Ray helps you debug and analyze your microservices applications with request tracing so you can find the root cause of issues and performance bottlenecks.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
