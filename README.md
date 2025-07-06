@@ -94,7 +94,7 @@
   - [AWS Control Tower](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/14-Gerenciamento-e-governanca#aws-control-tower)
   - [AWS Health Dashboard](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/14-Gerenciamento-e-governanca#aws-health-dashboard)
   - [AWS License Manager](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/14-Gerenciamento-e-governanca#aws-license-manager)
-  - [Console de Gerenciamento da AWS](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/14-Gerenciamento-e-governanca#console-de-gerenciamento-da-aws-management-console)
+  - [Console de Gerenciamento da AWS (Management Console)](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/14-Gerenciamento-e-governanca#console-de-gerenciamento-da-aws-management-console)
   - [AWS Organizations]()
   - [AWS Service Catalog]()
   - [Service Quotas]()

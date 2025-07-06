@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="../assets/gerenciamento-e-governanca/EC2 Auto Scaling.png" alt="img" width="100"><br>
   <h3>AWS Auto Scaling</h3>
+  <img src="../assets/gerenciamento-e-governanca/EC2 Auto Scaling.png" alt="img" width="100"><br>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/ec2/autoscaling/)
 
-
-[Documentação]()
+Amazon EC2 Auto Scaling helps you maintain application availability and define how to scale Amazon EC2 capacity to meet the demands of your application.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -28,13 +28,13 @@
 ---
 
 <div align="center">
-  <img src="../assets/gerenciamento-e-governanca/CloudFormation.png" alt="img" width="100"><br>
   <h3>AWS CloudFormation</h3>
+  <img src="../assets/gerenciamento-e-governanca/CloudFormation.png" alt="img" width="100"><br>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/cloudformation/)
 
-
-[Documentação]()
+AWS CloudFormation is an infrastructure as code (IaC) service that allows you to easily model, provision, and manage AWS and third-party resources.
 
 - **Modelo:** IaaS/PaaS (infra como código)
 - **Híbrido:** ✅
@@ -57,13 +57,13 @@
 ---
 
 <div align="center">
-  <img src="../assets/gerenciamento-e-governanca/CloudTrail.png" alt="img" width="100"><br>
   <h3>AWS CloudTrail</h3>
+  <img src="../assets/gerenciamento-e-governanca/CloudTrail.png" alt="img" width="100"><br>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/cloudtrail/)
 
-
-[Documentação]()
+AWS CloudTrail enables governance, compliance, operational auditing, and risk auditing of your AWS account.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -86,13 +86,13 @@
 ---
 
 <div align="center">
-  <img src="../assets/gerenciamento-e-governanca/CloudWatch.png" alt="img" width="100"><br>
   <h3>Amazon CloudWatch</h3>
+  <img src="../assets/gerenciamento-e-governanca/CloudWatch.png" alt="img" width="100"><br>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/cloudwatch/)
 
-
-[Documentação]()
+Amazon CloudWatch is a monitoring service built for DevOps engineers, developers, site reliability engineers (SREs), IT managers, and product owners.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -115,15 +115,13 @@
 ---
 
 <div align="center">
+  <h3>AWS Compute Optimizer</h3>
   <img src="../assets/gerenciamento-e-governanca/Compute Optimizer.png" alt="img" width="100"><br>
-  <h3></h3>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/compute-optimizer/)
 
-
-[Documentação]()
-
-### **AWS Compute Optimizer**
+AWS Compute Optimizer recommends more efficient AWS compute resources for your workloads to reduce costs and improve performance.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -146,15 +144,13 @@
 ---
 
 <div align="center">
+  <h3>AWS Config</h3>
   <img src="../assets/gerenciamento-e-governanca/Config.png" alt="img" width="100"><br>
-  <h3></h3>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/config/)
 
-
-[Documentação]()
-
-### **AWS Config**
+AWS Config is a config tool that helps you assess, audit, and evaluate the configurations and relationships of your resources.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -177,15 +173,13 @@
 ---
 
 <div align="center">
+  <h3>AWS Control Tower</h3>
   <img src="../assets/gerenciamento-e-governanca/Control Tower.png" alt="img" width="100"><br>
-  <h3></h3>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/controltower/)
 
-
-[Documentação]()
-
-### **AWS Control Tower**
+AWS Control Tower provides a single location to set up a well-architected, multi-account environment to govern your AWS workloads with rules for security, operations, and compliance.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -208,15 +202,13 @@
 ---
 
 <div align="center">
+  <h3>AWS Health Dashboard</h3>
   <img src="../assets/gerenciamento-e-governanca/Personal Health Dashboard.png" alt="img" width="100"><br>
-  <h3></h3>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/premiumsupport/technology/aws-health/)
 
-
-[Documentação]()
-
-### **AWS Health Dashboard**
+View important events and changes affecting your AWS environment
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -239,15 +231,13 @@
 ---
 
 <div align="center">
+  <h3>AWS License Manager</h3>
   <img src="../assets/gerenciamento-e-governanca/License Manager.png" alt="img" width="100"><br>
-  <h3></h3>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/license-manager/)
 
-
-[Documentação]()
-
-### **AWS License Manager**
+AWS License Manager makes it easier for you to manage your software licenses from vendors, such as Microsoft, SAP, Oracle, and IBM, across AWS and on-premises environments.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -270,13 +260,13 @@
 ---
 
 <div align="center">
-  <img src="../assets/gerenciamento-e-governanca/Management Console.png" alt="img" width="100"><br>
   <h3>Console de Gerenciamento da AWS (Management Console)</h3>
+  <img src="../assets/gerenciamento-e-governanca/Management Console.png" alt="img" width="100"><br>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/console/)
 
-
-[Documentação]()
+The AWS Management Console is a web application that comprises and refers to a broad collection of service consoles for managing AWS resources.
 
 - **Modelo:** SaaS (interface web)
 - **Híbrido:** ✅
@@ -299,13 +289,13 @@
 ---
 
 <div align="center">
+  <h3>AWS Organizations</h3>
   <img src="../assets/gerenciamento-e-governanca/Organizations.png" alt="img" width="100"><br>
-  <h3></h3>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/organizations/)
 
-
-[Documentação]()
+AWS Organizations enables centralized cloud account management as you grow and scale your AWS resources.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -328,13 +318,13 @@
 ---
 
 <div align="center">
+  <h3>Service Catalog</h3>
   <img src="../assets/gerenciamento-e-governanca/Service Catalog.png" alt="img" width="100"><br>
-  <h3></h3>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/servicecatalog/)
 
-
-[Documentação]()
+AWS Service Catalog helps you create and manage IaC templates approved for use on AWS so anyone can discover approved, self-service cloud resources.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -357,15 +347,13 @@
 ---
 
 <div align="center">
+  <h3>Service Quotas</h3>
   <img src="../assets/gerenciamento-e-governanca/AWS-logo.png" alt="img" width="100"><br>
-  <h3></h3>
 </div><br>
 
+With Service Quotas, you can view and manage your quotas for AWS services from a central location. Quotas, also referred to as limits in AWS services, are the maximum values for the resources, actions, and items in your AWS account.
 
-
-[Documentação]()
-
-### **Service Quotas**
+[Documentação](https://docs.aws.amazon.com/servicequotas/latest/userguide/intro.html)
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -388,15 +376,13 @@
 ---
 
 <div align="center">
+  <h3>AWS Systems Manager</h3>
   <img src="../assets/gerenciamento-e-governanca/Systems Manager.png" alt="img" width="100"><br>
-  <h3></h3>
 </div><br>
 
+[Documentação](https://aws.amazon.com/pt/systems-manager/)
 
-
-[Documentação](https://docs.aws.amazon.com/servicequotas/latest/userguide/intro.html)
-
-### **AWS Systems Manager**
+AWS Systems Manager provides an operations console and APIs for centralized application and resource management in hybrid environments.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
