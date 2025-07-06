@@ -7,26 +7,26 @@ Amazon Athena is a serverless, interactive analytics service that provides a sim
 
 [Documentação](https://aws.amazon.com/pt/athena/)
 
-**Modelo:** PaaS
-**Híbrido:** ✅
-**Totalmente gerenciado pela AWS:** ✅
-**Sem servidor:** ✅
-**Escopo:** Regional
-**Opera:** Layer 7 – Consulta de dados no S3 com SQL
-**Shared Model:**
- 🔹 AWS cuida da infra e da escalabilidade
- 🔹 Você cuida dos dados e permissões
-**Características:** Consulta SQL direto no S3, sem ETL, sem infraestrutura
-**Palavras-chave:** SQL no S3, análise rápida, sem servidor
+- **Modelo:** PaaS
+- **Híbrido:** ✅
+- **Totalmente gerenciado pela AWS:** ✅
+- **Sem servidor:** ✅
+- **Escopo:** Regional
+- **Opera:** Layer 7 – Consulta de dados no S3 com SQL
+- **Shared Model:**
+-  🔹 AWS cuida da infra e da escalabilidade
+-  🔹 Você cuida dos dados e permissões
+- **Características:** Consulta SQL direto no S3, sem ETL, sem infraestrutura
+- **Palavras-chave:** SQL no S3, análise rápida, sem servidor
 
-**Exemplo:** Você faz perguntas em SQL direto para arquivos guardados no S3, como se conversasse com uma planilha gigante.
+- **Exemplo:** Você faz perguntas em SQL direto para arquivos guardados no S3, como se conversasse com uma planilha gigante.
 
-📝 **Como cai na prova:**
- 🔹 “Você precisa consultar dados armazenados no S3 usando SQL...”
- 🔹 “Qual serviço permite consultar dados no S3 sem infraestrutura?”
+- 📝 **Como cai na prova:**
+-  🔹 “Você precisa consultar dados armazenados no S3 usando SQL...”
+-  🔹 “Qual serviço permite consultar dados no S3 sem infraestrutura?”
 
-💰 **Como é cobrado:**
- 🔹 Por volume de dados lido na consulta
+- 💰 **Como é cobrado:**
+- 🔹 Por volume de dados lido na consulta
 
 ---
 
