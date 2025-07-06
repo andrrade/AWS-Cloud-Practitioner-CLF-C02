@@ -3,7 +3,9 @@
   <img src="../assets/seguranca-identidade-e-conformidade/Artifact.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/artifact/)
+
+AWS Artifact provides on-demand access to select security reports, compliance reports, and agreements with AWS.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -30,7 +32,9 @@
   <img src="../assets/seguranca-identidade-e-conformidade/Audit Manager.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/audit-manager/)
+
+AWS Audit Manager helps you assess internal risk with prebuilt frameworks that translate evidence from cloud services into security IT audit reports.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -57,7 +61,9 @@
   <img src="../assets/seguranca-identidade-e-conformidade/Certificate Manager.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/certificate-manager/)
+
+AWS Certificate Manager helps you provision, manage, and deploy public and private SSL/TLS certificates with AWS services and your internal connected resources.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -84,7 +90,9 @@
   <img src="../assets/seguranca-identidade-e-conformidade/CloudHSM.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/cloudhsm/)
+
+AWS CloudHSM provides total access management control and protection for your encryption keys with secure and compliant hardware security modules (HSMs).
 
 - **Modelo:** IaaS/PaaS
 - **Híbrido:** ✅
@@ -111,7 +119,9 @@
   <img src="../assets/seguranca-identidade-e-conformidade/Cognito.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/cognito/)
+
+Amazon Cognito is a developer-centric and cost-effective customer identity and access management (CIAM) service that scales to millions of users.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -138,7 +148,9 @@
   <img src="../assets/seguranca-identidade-e-conformidade/Detective.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/detective/)
+
+Amazon Detective empowers security teams to investigate and determine the root cause of security findings and suspicious activity.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -165,7 +177,9 @@
   <img src="../assets/seguranca-identidade-e-conformidade/Directory Service.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/directoryservice/)
+
+AWS Directory Service for Microsoft Active Directory lets you connect your AWS resources with an existing on-premises directory, or set up a new standalone directory on AWS.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -192,7 +206,9 @@
   <img src="../assets/seguranca-identidade-e-conformidade/Firewall Manager.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/firewall-manager/)
+
+AWS Firewall Manager allows you to centrally configure and manage your firewall rules across accounts and applications.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -248,7 +264,9 @@ Amazon GuardDuty is a threat detection service that monitors for malicious activ
   <img src="../assets/seguranca-identidade-e-conformidade/Identity and Access Management.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/iam/)
+
+With AWS Identity and Access Management (IAM), you can specify who or what can access services and resources in AWS, centrally manage fine-grained permissions, and analyze access to refine permissions across AWS.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -275,7 +293,9 @@ Amazon GuardDuty is a threat detection service that monitors for malicious activ
   <img src="../assets/seguranca-identidade-e-conformidade/IAM Identity Center.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/iam/)
+
+With AWS Identity and Access Management (IAM), you can specify who or what can access services and resources in AWS, centrally manage fine-grained permissions, and analyze access to refine permissions across AWS.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -302,7 +322,9 @@ Amazon GuardDuty is a threat detection service that monitors for malicious activ
   <img src="../assets/seguranca-identidade-e-conformidade/Inspector.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/inspector/)
+
+Amazon Inspector is an automated vulnerability management service that continually scans AWS workloads for software vulnerabilities.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -329,7 +351,9 @@ Amazon GuardDuty is a threat detection service that monitors for malicious activ
   <img src="../assets/seguranca-identidade-e-conformidade/Key Management Service.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/kms/)
+
+Learn how AWS Key Management Service (KMS) provides you with logs of key usage to help you meet your regulatory and compliance needs.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -356,7 +380,9 @@ Amazon GuardDuty is a threat detection service that monitors for malicious activ
   <img src="../assets/seguranca-identidade-e-conformidade/Macie.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/macie/)
+
+Amazon Macie discovers sensitive data using machine learning and pattern matching, provides visibility into data security risks, and enables automated protection against those risks.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -383,7 +409,9 @@ Amazon GuardDuty is a threat detection service that monitors for malicious activ
   <img src="../assets/seguranca-identidade-e-conformidade/Resource Access Manager.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/ram/)
+
+AWS Resource Access Manager helps you securely share your AWS resources with other AWS accounts.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -410,7 +438,9 @@ Amazon GuardDuty is a threat detection service that monitors for malicious activ
   <img src="../assets/seguranca-identidade-e-conformidade/Secrets Manager.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/secrets-manager/)
+
+AWS Secrets Manager allows you to rotate, manage, and retrieve database credentials, API keys, and other secrets through their lifecycle.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -437,7 +467,9 @@ Amazon GuardDuty is a threat detection service that monitors for malicious activ
   <img src="../assets/seguranca-identidade-e-conformidade/Security Hub.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/security-hub/)
+
+AWS Security Hub is a cloud security posture management service that automates best practice checks, aggregates alerts, and supports automated remediation.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -464,7 +496,9 @@ Amazon GuardDuty is a threat detection service that monitors for malicious activ
   <img src="../assets/seguranca-identidade-e-conformidade/Shield.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/shield/)
+
+AWS Shield is a managed distributed denial of service (DDoS) protection service that safeguards applications running on AWS.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -491,7 +525,9 @@ Amazon GuardDuty is a threat detection service that monitors for malicious activ
   <img src="../assets/seguranca-identidade-e-conformidade/WAF.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/waf/)
+
+AWS WAF is a web application firewall that helps protect apps and APIs against bots and exploits that consume resources, skew metrics, or cause downtime.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅

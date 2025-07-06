@@ -120,7 +120,6 @@
   - [Amazon Route 53](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/16-Redes-e-entrega-de-conteudo#amazon-route-53)
   - [AWS Transit Gateway](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/16-Redes-e-entrega-de-conteudo#aws-transit-gateway)
   - [Amazon VPC](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/16-Redes-e-entrega-de-conteudo#amazon-vpc)
-  - [AWS VPN](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/16-Redes-e-entrega-de-conteudo#aws-vpn)
   - [AWS Site-to-Site VPN](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/16-Redes-e-entrega-de-conteudo#aws-site-to-site-vpn)
   - [AWS Client VPN](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/16-Redes-e-entrega-de-conteudo#aws-client-vpn)
 
