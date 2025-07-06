@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="../assets/aplicacoes-empresariais/Connect.png" alt="img" width="100"><br>
   <h3>Amazon Connect</h3>
+  <img src="../assets/aplicacoes-empresariais/Connect.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Connect is an easy-to-use omnichannel cloud contact center service offering superior, low-cost customer service using machine learning (ML), interactive voice response (IVR), and call center routing.
-
 [Documentação](https://aws.amazon.com/pt/connect/)
+
+Amazon Connect is an easy-to-use omnichannel cloud contact center service offering superior, low-cost customer service using machine learning (ML), interactive voice response (IVR), and call center routing.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -28,13 +28,13 @@ Amazon Connect is an easy-to-use omnichannel cloud contact center service offeri
 ---
 
 <div align="center">
-  <img src="../assets/aplicacoes-empresariais/Simple Email Service.png" alt="img" width="100"><br>
   <h3>Amazon Simple Email Service (Amazon SES)</h3>
+  <img src="../assets/aplicacoes-empresariais/Simple Email Service.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Simple Email Service (SES) is a cost-effective, flexible, and scalable email service that allows developers to send email from within any application.
-
 [Documentação](https://aws.amazon.com/pt/ses/)
+
+Amazon Simple Email Service (SES) is a cost-effective, flexible, and scalable email service that allows developers to send email from within any application.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
