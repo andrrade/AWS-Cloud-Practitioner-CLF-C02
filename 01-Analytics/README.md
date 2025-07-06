@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <img src="../assets/analytics/Athena.png" alt="img" width="100"><br>
-  <strong><span style="font-size: 18px;">Amazon Athena</span></strong>
+  <strong><span style="font-size: 32px;">Amazon Athena</span></strong>
 </p>
 
 **Modelo:** PaaS
