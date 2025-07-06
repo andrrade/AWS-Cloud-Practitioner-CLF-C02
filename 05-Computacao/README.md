@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/computacao/Batch.png" alt="img" width="100"><br>
+  <img src="../assets/computacao/Batchh.png" alt="img" width="100"><br>
   <h3>AWS Batch</h3>
 </div><br>
 
