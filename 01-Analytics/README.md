@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/athena.png" alt="img">
+  <img src="../assets/analytics/Athena.png" alt="img">
 </p>
 
 **Modelo:** PaaS
@@ -63,7 +63,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/glue.png" alt="img">
+  <img src="../assets/analytics/Glue.png" alt="img">
 </p>
 
 **Modelo:** PaaS
@@ -95,7 +95,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/kinesis.png" alt="img">
+  <img src="../assets/analytics/Kinesis.png" alt="img">
 </p>
 
 **Modelo:** PaaS
@@ -127,7 +127,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/opensearch.png" alt="img">
+  <img src="../assets/analytics/OpenSearch Service.png" alt="img">
 </p>
 
 **Modelo:** PaaS
@@ -191,7 +191,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/redshift.png" alt="img">
+  <img src="../assets/analytics/Redshift.png" alt="img">
 </p>
 
 **Modelo:** PaaS
