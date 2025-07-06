@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/analytics/Athena.png" alt="img" width="100"><br>
+  <img src="../assets/analytics/Athenaa.png" alt="img" width="100"><br>
   <h3>Amazon Athena</h3>
 </div>
 
@@ -61,7 +61,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/Glue.png" alt="img" width="100">
+  <img src="../assets/analytics/Gluee.png" alt="img" width="100">
 </p>
 
 **Modelo:** PaaS
@@ -93,7 +93,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/Kinesis.png" alt="img" width="100">
+  <img src="../assets/analytics/Kinesiss.png" alt="img" width="100">
 </p>
 
 **Modelo:** PaaS
@@ -189,7 +189,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/Redshift.png" alt="img" width="100">
+  <img src="../assets/analytics/Redshiftt.png" alt="img" width="100">
 </p>
 
 **Modelo:** PaaS
