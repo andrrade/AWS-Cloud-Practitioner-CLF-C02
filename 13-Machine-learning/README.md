@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/machine-learning/Comprehend.png" alt="img" width="100"><br>
+  <img src="../assets/machine-learning/Comprehendd.png" alt="img" width="100"><br>
   <h3>Amazon Comprehend</h3>
 </div><br>
 
@@ -28,7 +28,7 @@ Amazon Comprehend is a natural-language processing (NLP) service that uses machi
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/Kendra.png" alt="img" width="100"><br>
+  <img src="../assets/machine-learning/Kendraa.png" alt="img" width="100"><br>
   <h3>Amazon Kendra</h3>
 </div><br>
 
@@ -57,7 +57,7 @@ Amazon Kendra offers an intelligent enterprise search solution that increases em
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/Lex.png" alt="img" width="100"><br>
+  <img src="../assets/machine-learning/Lexx.png" alt="img" width="100"><br>
   <h3>Amazon Lex</h3>
 </div><br>
 
@@ -86,7 +86,7 @@ Amazon Lex is a fully managed AI service for building conversational interfaces 
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/Polly.png" alt="img" width="100"><br>
+  <img src="../assets/machine-learning/Pollyy.png" alt="img" width="100"><br>
   <h3>Amazon Polly</h3>
 </div><br>
 
@@ -115,7 +115,7 @@ Amazon Polly turns text into lifelike speech, allowing you to create application
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/Rekognition.png" alt="img" width="100"><br>
+  <img src="../assets/machine-learning/Rekognitionn.png" alt="img" width="100"><br>
   <h3>Amazon Rekognition</h3>
 </div><br>
 
