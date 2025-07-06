@@ -145,9 +145,9 @@
   - [Computação]()
   - [Computação]()
 
-- [Sem servidor]()  
-  - [AWS Fargate]()
-  - [AWS Lambda]()
+- [Sem servidor](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/18-Sem-servidor)  
+  - [AWS Fargate](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/18-Sem-servidor#aws-fargate)
+  - [AWS Lambda](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/18-Sem-servidor#aws-lambda)
 
 - [Armazenamento]()  
   - [AWS Backup]()
