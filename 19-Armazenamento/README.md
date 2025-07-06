@@ -3,9 +3,9 @@
   <img src="../assets/armazenamento/Backup.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/backup/)
 
-
+AWS Backup lets you centrally manage and automate backups across AWS services and third-party applications.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -32,9 +32,9 @@
   <img src="../assets/armazenamento/Elastic Block Store.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/ebs/)
 
-
+Amazon Elastic Block Store (EBS) is an easy to use, high-performance cloud Storage Area Network (SAN).
 
 - **Modelo:** IaaS
 - **Híbrido:** ✅
@@ -61,9 +61,9 @@
   <img src="../assets/armazenamento/EFS.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/efs/)
 
-
+Amazon EFS is a simple, serverless, elastic, set-and-forget file system that automatically grows and shrinks as you add and remove files with no need for management or provisioning. You can use Amazon EFS with Amazon EC2, AWS Lambda, Amazon ECS, Amazon EKS and other AWS compute instances, or with on-premises servers.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -90,9 +90,9 @@
   <img src="../assets/armazenamento/Elastic Disaster Recovery.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/disaster-recovery/)
 
-
+AWS Elastic Disaster Recovery (AWS DRS) minimizes downtime and data loss with fast, reliable recovery of on-premises and cloud-based applications.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -119,7 +119,9 @@
   <img src="../assets/armazenamento/FSx.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/fsx/)
+
+Amazon FSx makes it easy and cost effective to launch, run, and scale feature-rich, high-performance file systems in the cloud. It supports a wide range of workloads with its reliability, security, scalability, and broad set of capabilities. Amazon FSx is built on the latest AWS compute, networking, and disk technologies to provide high performance and lower TCO. And as a fully managed service, it handles hardware provisioning, patching, and backups -- freeing you up to focus on your applications, your end users, and your business.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -146,9 +148,9 @@
   <img src="../assets/armazenamento/Simple Storage Service.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/s3/)
 
-
+Amazon Simple Storage Service (Amazon S3) is storage for the internet. You can use Amazon S3 to store and retrieve any amount of data at any time, from anywhere on the web.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -175,9 +177,9 @@
   <img src="../assets/armazenamento/Simple Storage Service Glacier.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/s3/storage-classes/glacier/)
 
-
+Long-term, secure, durable Amazon S3 object storage classes for data archiving, starting at $1 per terabyte per month.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -204,9 +206,9 @@
   <img src="../assets/armazenamento/Storage Gateway.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/storagegateway/)
 
-
+AWS Storage Gateway is a service that connects an on-premises software appliance with cloud-based storage to provide seamless and secure integration between your on-premises IT environment and the AWS storage infrastructure in the AWS Cloud.
 
 - **Modelo:** Híbrido (on-premises + nuvem)
 - **Híbrido:** ✅
