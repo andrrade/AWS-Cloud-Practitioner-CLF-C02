@@ -3,9 +3,10 @@
   <img src="../assets/analytics/Athenaa.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Athena is a serverless, interactive analytics service that provides a simplified and flexible way to analyze petabytes of data where it lives.
-
-[Documentação](https://aws.amazon.com/pt/athena/)
+<div align="center">
+  <a href="https://aws.amazon.com/pt/athena/" target="_blank">Documentação</a><br>
+  Amazon Athena is a serverless, interactive analytics service that provides a simplified and flexible way to analyze petabytes of data where it lives.
+</div><br>
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
