@@ -1,9 +1,11 @@
-### **AWS Budgets**
+<div align="center">
+  <img src="../assets/gerenciamento-financeiro-da-nuvem/Budgets.png" alt="img" width="100"><br>
+  <h3>AWS Budgets</h3>
+</div><br>
 
-<p align="center">
-  <br>
-  <img src="../assets/gerenciamento-financeiro-da-nuvem/budgets.png" alt="img">
-</p>
+AWS Budgets is the simplest way to monitor your AWS spend and be alerted when you exceed or are forecasted to exceed your desired spending limit.
+
+[Documentação](https://aws.amazon.com/pt/aws-cost-management/aws-budgets/)
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -25,12 +27,14 @@
 
 ---
 
-### **Relatórios de custo e uso da AWS (AWS Cost and Usage Report - CUR)**
+<div align="center">
+  <img src="../assets/gerenciamento-financeiro-da-nuvem/Cost and Usage Report.png" alt="img" width="100"><br>
+  <h3>Relatórios de custo e uso da AWS (AWS Cost and Usage Report - CUR)</h3>
+</div><br>
 
-<p align="center">
-  <br>
-  <img src="../assets/gerenciamento-financeiro-da-nuvem/Cost-and-UsageReport.png" alt="img">
-</p>
+AWS Cost & Usage Reports contains the most comprehensive set of AWS cost and usage data available, including additional metadata about AWS services, pricing, and reservations.
+
+[Documentação](https://aws.amazon.com/pt/aws-cost-management/aws-cost-and-usage-reporting/)
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -52,12 +56,14 @@
 
 ---
 
-### **AWS Cost Explorer**
+<div align="center">
+  <img src="../assets/gerenciamento-financeiro-da-nuvem/Cost Explorer.png" alt="img" width="100"><br>
+  <h3>AWS Cost Explorer</h3>
+</div><br>
 
-<p align="center">
-  <br>
-  <img src="../assets/gerenciamento-financeiro-da-nuvem/CostExplorer.png" alt="img">
-</p>
+AWS Cost Explorer has an easy-to-use interface that lets you visualize, understand, and manage your AWS cloud costs and usage over time.
+
+[Documentação](https://aws.amazon.com/pt/aws-cost-management/aws-cost-explorer/)
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -79,12 +85,14 @@
 
 ---
 
-### **AWS Marketplace**
+<div align="center">
+  <img src="../assets/gerenciamento-financeiro-da-nuvem/Marketplace Light.png" alt="img" width="100"><br>
+  <h3>AWS Marketplace</h3>
+</div><br>
 
-<p align="center">
-  <br>
-  <img src="../assets/gerenciamento-financeiro-da-nuvem/Marketplace.png" alt="img">
-</p>
+Discover, purchase, migrate and deploy software solutions on AWS. Get the business software you want in minutes and pay only for what you consume.
+
+[Documentação](https://aws.amazon.com/marketplace)
 
 - **Modelo:** SaaS (marketplace de software)
 - **Híbrido:** ✅

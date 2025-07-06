@@ -1,9 +1,9 @@
-### **AWS Batch**
+<div align="center">
+  <img src="../assets/computacao" alt="img" width="100"><br>
+  <h3>AWS Batch</h3>
+</div><br>
 
-<p align="center">
-  <br>
-  <img src="../assets/computacao/batch.png" alt="img">
-</p>
+[Documentação]()
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -30,12 +30,12 @@
 
 ---
 
-### **Amazon EC2**
+<div align="center">
+  <img src="../assets/computacao" alt="img" width="100"><br>
+  <h3>Amazon EC2</h3>
+</div><br>
 
-<p align="center">
-  <br>
-  <img src="../assets/computacao/EC2.png" alt="img">
-</p>
+[Documentação]()
 
 - **Modelo:** IaaS
 - **Híbrido:** ✅
@@ -62,12 +62,12 @@
 
 ---
 
-### **AWS Elastic Beanstalk**
+<div align="center">
+  <img src="../assets/computacao" alt="img" width="100"><br>
+  <h3>AWS Elastic Beanstalk</h3>
+</div><br>
 
-<p align="center">
-  <br>
-  <img src="../assets/computacao/ElasticBeanstalk.png" alt="img">
-</p>
+[Documentação]()
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -94,12 +94,12 @@
 
 ---
 
-### **Amazon Lightsail**
+<div align="center">
+  <img src="../assets/computacao" alt="img" width="100"><br>
+  <h3>Amazon Lightsail</h3>
+</div><br>
 
-<p align="center">
-  <br>
-  <img src="../assets/computacao/Lightsail.png" alt="img">
-</p>
+[Documentação]()
 
 - **Modelo:** IaaS (mais simplificado)
 - **Híbrido:** ✅
@@ -126,12 +126,12 @@
 
 ---
 
-### **AWS Outposts**
+<div align="center">
+  <img src="../assets/computacao" alt="img" width="100"><br>
+  <h3>AWS Outposts</h3>
+</div><br>
 
-<p align="center">
-  <br>
-  <img src="../assets/computacao/outpots.png" alt="img">
-</p>
+[Documentação]()
 
 - **Modelo:** IaaS + PaaS (hardware no local)
 - **Híbrido:** ✅ (essencialmente híbrido)
