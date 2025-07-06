@@ -351,9 +351,9 @@ AWS Service Catalog helps you create and manage IaC templates approved for use o
   <img src="../assets/gerenciamento-e-governanca/AWS-logo.png" alt="img" width="100"><br>
 </div><br>
 
-With Service Quotas, you can view and manage your quotas for AWS services from a central location. Quotas, also referred to as limits in AWS services, are the maximum values for the resources, actions, and items in your AWS account.
-
 [Documentação](https://docs.aws.amazon.com/servicequotas/latest/userguide/intro.html)
+
+With Service Quotas, you can view and manage your quotas for AWS services from a central location. Quotas, also referred to as limits in AWS services, are the maximum values for the resources, actions, and items in your AWS account.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -486,4 +486,3 @@ Learn architectural best practices, improve your workloads, and track progress o
   - 🔹 “Ferramenta para avaliar workloads com base em pilares...”  
 - 💰 **Como é cobrado:**  
   - 🔹 Gratuito
-  

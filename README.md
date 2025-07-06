@@ -99,10 +99,10 @@
   - [AWS Service Catalog](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/14-Gerenciamento-e-governanca#service-catalog)
   - [Service Quotas](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/14-Gerenciamento-e-governanca#service-quotas)
   - [AWS Systems Manager](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/14-Gerenciamento-e-governanca#aws-systems-manager)
-  - [AWS Trusted Advisor]()
-  - [AWS Well-Architected Tool]()
+  - [AWS Trusted Advisor](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/14-Gerenciamento-e-governanca#aws-trusted-advisor)
+  - [AWS Well-Architected Tool](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/14-Gerenciamento-e-governanca#aws-well-architected-tool)
 
-- [Migração e transferência]()  
+- [Migração e transferência](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/15-Migracao-e-transferencia)  
   - [Computação]()
   - [Computação]()
   - [Computação]()
