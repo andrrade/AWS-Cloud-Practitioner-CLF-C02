@@ -10,7 +10,7 @@
 - [Guia Oficial do Exame](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
 - [Analytics](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/01-Analytics)  
-  <img src="../assets/analytics/Athenaa.png" alt="img" width="30"><br>
+  <img src="./assets/analytics/Athenaa.png" alt="img" width="30"><br>
   - [Amazon Athena](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-athena)
   - [Amazon EMR ](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-emr)
   - [AWS Glue](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#aws-glue)
