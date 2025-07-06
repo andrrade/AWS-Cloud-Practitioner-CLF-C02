@@ -10,13 +10,13 @@
 - [Guia Oficial do Exame](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
 - [Analytics](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/01-Analytics)  
-  - [Amazon Athena](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-athena) <img src="./assets/analytics/Athenaa.png" alt="img" width="30"><br>
-  - [Amazon EMR ](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-emr)
-  - [AWS Glue](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#aws-glue)
-  - [Amazon Kinesis](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-kinesis) 
-  - [Amazon OpenSearch Service](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-opensearch-service) 
-  - [Amazon QuickSight](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-quicksight)
-  - [Amazon Redshift](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-redshift)
+  - [Amazon Athena](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-athena) <img src="./assets/analytics/Athenaa.png" alt="img" width="30">
+  - [Amazon EMR ](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-emr) <img src="./assets/analytics/EMR.png" alt="img" width="30">
+  - [AWS Glue](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#aws-glue) <img src="./assets/analytics/Gluee.png" alt="img" width="30">
+  - [Amazon Kinesis](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-kinesis) <img src="./assets/analytics/Kinesiss.png" alt="img" width="30">
+  - [Amazon OpenSearch Service](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-opensearch-service) <img src="./assets/analytics/OpenSearch Service.png" alt="img" width="30">
+  - [Amazon QuickSight](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-quicksight) <img src="./assets/analytics/QuickSight.png" alt="img" width="30">
+  - [Amazon Redshift](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-redshift) <img src="./assets/analytics/QuickSight.png" alt="img" width="30">
 
 - [Integração de aplicações](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/02-Integracao-de-aplicacoes)  
   - [Amazon EventBridge](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/02-Integracao-de-aplicacoes#amazon-eventbridge)
