@@ -166,5 +166,5 @@
 
 <div align="center">
   <h3>AWS IoT Core</h3>
-  <img src="./assets/aws-shared-responsibility-model.png" alt="img" width="100"><br>
+  <img src="./assets/aws-shared-responsibility-model.png" alt="img"><br>
 </div><br>
