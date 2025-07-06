@@ -3,6 +3,8 @@
   <h3>AWS-Cloud-Practitioner-CLF-C02</h3>
 </div><br>
 
+**Site que usei para referência de algumas descrições e imagens: https://aws-icons.com/** 
+
 ## Sumário 📝
 
 - [Guia Oficial do Exame](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
