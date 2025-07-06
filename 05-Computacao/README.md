@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="../assets/computacao/Batchh.png" alt="img" width="100"><br>
   <h3>AWS Batch</h3>
+  <img src="../assets/computacao/Batchh.png" alt="img" width="100"><br>
 </div><br>
 
-AWS Batch allows developers, scientists, and engineers to efficiently process hundreds of thousands of batch and machine learning computing jobs on AWS.
-
 [Documentação](https://aws.amazon.com/pt/batch/)
+
+AWS Batch allows developers, scientists, and engineers to efficiently process hundreds of thousands of batch and machine learning computing jobs on AWS.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -28,13 +28,13 @@ AWS Batch allows developers, scientists, and engineers to efficiently process hu
 ---
 
 <div align="center">
-  <img src="../assets/computacao/EC2.png" alt="img" width="100"><br>
   <h3>Amazon EC2</h3>
+  <img src="../assets/computacao/EC2.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon EC2 provides secure, resizable compute in the cloud, offering the broadest choice of processor, storage, networking, OS, and purchase model.
-
 [Documentação](https://aws.amazon.com/pt/ec2/)
+
+Amazon EC2 provides secure, resizable compute in the cloud, offering the broadest choice of processor, storage, networking, OS, and purchase model.
 
 - **Modelo:** IaaS
 - **Híbrido:** ✅
@@ -57,13 +57,13 @@ Amazon EC2 provides secure, resizable compute in the cloud, offering the broades
 ---
 
 <div align="center">
-  <img src="../assets/computacao/Elastic Beanstalk.png" alt="img" width="100"><br>
   <h3>AWS Elastic Beanstalk</h3>
+  <img src="../assets/computacao/Elastic Beanstalk.png" alt="img" width="100"><br>
 </div><br>
 
-AWS Elastic Beanstalk helps you deploy and manage web applications with capacity provisioning, app health monitoring, and more.
-
 [Documentação](https://aws.amazon.com/pt/elasticbeanstalk/)
+
+AWS Elastic Beanstalk helps you deploy and manage web applications with capacity provisioning, app health monitoring, and more.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -86,13 +86,13 @@ AWS Elastic Beanstalk helps you deploy and manage web applications with capacity
 ---
 
 <div align="center">
-  <img src="../assets/computacao/Lightsail.png" alt="img" width="100"><br>
   <h3>Amazon Lightsail</h3>
+  <img src="../assets/computacao/Lightsail.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Lightsail is an easy-to-use virtual private server (VPS) that offers simple management of cloud resources such as containers, at low, predictable prices.
-
 [Documentação](https://aws.amazon.com/pt/lightsail/)
+
+Amazon Lightsail is an easy-to-use virtual private server (VPS) that offers simple management of cloud resources such as containers, at low, predictable prices.
 
 - **Modelo:** IaaS (mais simplificado)
 - **Híbrido:** ✅
@@ -115,13 +115,13 @@ Amazon Lightsail is an easy-to-use virtual private server (VPS) that offers simp
 ---
 
 <div align="center">
-  <img src="../assets/computacao/Outposts family.png" alt="img" width="100"><br>
   <h3>AWS Outposts</h3>
+  <img src="../assets/computacao/Outposts family.png" alt="img" width="100"><br>
 </div><br>
 
-Run AWS infrastructure and services on premises for a truly consistent hybrid experience.
-
 [Documentação](https://aws.amazon.com/pt/outposts/)
+
+Run AWS infrastructure and services on premises for a truly consistent hybrid experience.
 
 - **Modelo:** IaaS + PaaS (hardware no local)
 - **Híbrido:** ✅ (essencialmente híbrido)
