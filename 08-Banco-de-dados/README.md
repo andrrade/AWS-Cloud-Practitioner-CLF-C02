@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="../assets/banco-de-dados/Aurora.png" alt="img" width="100"><br>
   <h3>Amazon Aurora</h3>
+  <img src="../assets/banco-de-dados/Aurora.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Aurora is a global-scale relational database service built for the cloud with full MySQL and PostgreSQL compatibility.
-
 [Documentação](https://aws.amazon.com/pt/rds/aurora/)
+
+Amazon Aurora is a global-scale relational database service built for the cloud with full MySQL and PostgreSQL compatibility.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -28,13 +28,13 @@ Amazon Aurora is a global-scale relational database service built for the cloud 
 ---
 
 <div align="center">
-  <img src="../assets/banco-de-dados/DocumentDB.png" alt="img" width="100"><br>
   <h3>Amazon DocumentDB</h3>
+  <img src="../assets/banco-de-dados/DocumentDB.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon DocumentDB (with MongoDB compatibility) is a fast, reliable, and fully managed database service that makes it easy for you to set up, operate, and scale MongoDB-compatible databases.
-
 [Documentação](https://aws.amazon.com/pt/documentdb/)
+
+Amazon DocumentDB (with MongoDB compatibility) is a fast, reliable, and fully managed database service that makes it easy for you to set up, operate, and scale MongoDB-compatible databases.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -57,13 +57,13 @@ Amazon DocumentDB (with MongoDB compatibility) is a fast, reliable, and fully ma
 ---
 
 <div align="center">
-  <img src="../assets/banco-de-dados/DynamoDB.png" alt="img" width="100"><br>
   <h3>Amazon DynamoDB</h3>
+  <img src="../assets/banco-de-dados/DynamoDB.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon DynamoDB is a fully managed, serverless, key-value NoSQL database that runs high-performance applications at any scale, with built-in security, continuous backups, and automated multi-region replication.
-
 [Documentação](https://aws.amazon.com/pt/dynamodb/)
+
+Amazon DynamoDB is a fully managed, serverless, key-value NoSQL database that runs high-performance applications at any scale, with built-in security, continuous backups, and automated multi-region replication.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -86,13 +86,13 @@ Amazon DynamoDB is a fully managed, serverless, key-value NoSQL database that ru
 ---
 
 <div align="center">
-  <img src="../assets/banco-de-dados/ElastiCache.png" alt="img" width="100"><br>
   <h3>Amazon ElastiCache</h3>
+  <img src="../assets/banco-de-dados/ElastiCache.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon ElastiCache is a fully managed Redis- and Memcached-compatible service delivering real-time, cost-optimized performance for modern applications with 99.99% availability.
-
 [Documentação](https://aws.amazon.com/pt/elasticache/)
+
+Amazon ElastiCache is a fully managed Redis- and Memcached-compatible service delivering real-time, cost-optimized performance for modern applications with 99.99% availability.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -115,13 +115,13 @@ Amazon ElastiCache is a fully managed Redis- and Memcached-compatible service de
 ---
 
 <div align="center">
-  <img src="../assets/banco-de-dados/Neptune.png" alt="img" width="100"><br>
   <h3>Amazon Neptune</h3>
+  <img src="../assets/banco-de-dados/Neptune.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Neptune is a fast, fully managed database service powering graph use cases such as identity graphs, knowledge graphs, and fraud detection.
-
 [Documentação](https://aws.amazon.com/pt/neptune/)
+
+Amazon Neptune is a fast, fully managed database service powering graph use cases such as identity graphs, knowledge graphs, and fraud detection.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -144,13 +144,13 @@ Amazon Neptune is a fast, fully managed database service powering graph use case
 ---
 
 <div align="center">
-  <img src="../assets/banco-de-dados/RDS.png" alt="img" width="100"><br>
   <h3>Amazon RDS</h3>
+  <img src="../assets/banco-de-dados/RDS.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Relational Database Service (RDS) is a fully managed, open-source cloud database service that allows you to easily operate and scale your relational database of choice, including Amazon Aurora, PostgreSQL, SQL Server, and MySQL.
-
 [Documentação](https://aws.amazon.com/pt/rds/)
+
+Amazon Relational Database Service (RDS) is a fully managed, open-source cloud database service that allows you to easily operate and scale your relational database of choice, including Amazon Aurora, PostgreSQL, SQL Server, and MySQL.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
