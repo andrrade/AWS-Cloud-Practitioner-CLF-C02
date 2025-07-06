@@ -1,4 +1,11 @@
-### **Amazon API Gateway**
+<div align="center">
+  <h3>Amazon API Gateway</h3>
+  <img src="../assets//redes-e-entrega-de-conteudo/API Gateway.png" alt="img" width="100"><br>
+</div><br>
+
+[Documentação]()
+
+
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -26,7 +33,14 @@
 
 ---
 
-### **Amazon CloudFront**
+<div align="center">
+  <h3>Amazon CloudFront</h3>
+  <img src="../assets//redes-e-entrega-de-conteudo/CloudFront.png" alt="img" width="100"><br>
+</div><br>
+
+[Documentação]()
+
+
 
 - **Modelo:** CDN (Content Delivery Network) / PaaS
 - **Híbrido:** ✅
@@ -54,7 +68,14 @@
 
 ---
 
-### **AWS Direct Connect**
+<div align="center">
+  <h3>AWS Direct Connect</h3>
+  <img src="../assets//redes-e-entrega-de-conteudo/Direct Connect.png" alt="img" width="100"><br>
+</div><br>
+
+[Documentação]()
+
+
 
 - **Modelo:** Serviço de rede dedicado
 - **Híbrido:** ✅
@@ -82,7 +103,14 @@
 
 ---
 
-### **AWS Global Accelerator**
+<div align="center">
+  <h3>AWS Global Accelerator</h3>
+  <img src="../assets//redes-e-entrega-de-conteudo/Global Accelerator.png" alt="img" width="100"><br>
+</div><br>
+
+[Documentação]()
+
+
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -93,7 +121,7 @@
 - 
 - **Shared Model:**
 -  🔹 AWS gerencia roteamento e disponibilidade
--   🔹 Você configura endpoints e políticas
+-  🔹 Você configura endpoints e políticas
 - 
 - **Características:** Melhora performance, failover automático, IP estático
 - 
@@ -110,7 +138,14 @@
 
 ---
 
-### **AWS PrivateLink**
+<div align="center">
+  <h3>AWS PrivateLink</h3>
+  <img src="../assets//redes-e-entrega-de-conteudo/PrivateLink.png" alt="img" width="100"><br>
+</div><br>
+
+[Documentação]()
+
+
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -138,7 +173,14 @@
 
 ---
 
-### **Amazon Route 53**
+<div align="center">
+  <h3>Amazon Route 53</h3>
+  <img src="../assets//redes-e-entrega-de-conteudo/Route 53.png" alt="img" width="100"><br>
+</div><br>
+
+[Documentação]()
+
+
 
 - **Modelo:** SaaS (DNS)
 - **Híbrido:** ✅
@@ -166,7 +208,14 @@
 
 ---
 
-### **AWS Transit Gateway**
+<div align="center">
+  <h3>AWS Transit Gateway</h3>
+  <img src="../assets//redes-e-entrega-de-conteudo/Transit Gateway.png" alt="img" width="100"><br>
+</div><br>
+
+[Documentação]()
+
+
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -194,7 +243,14 @@
 
 ---
 
-### **Amazon VPC**
+<div align="center">
+  <h3>Amazon VPC</h3>
+  <img src="../assets//redes-e-entrega-de-conteudo/Virtual Private Cloud.png" alt="img" width="100"><br>
+</div><br>
+
+[Documentação]()
+
+
 
 - **Modelo:** IaaS
 - **Híbrido:** ✅
@@ -222,7 +278,14 @@
 
 ---
 
-### **AWS VPN**
+<div align="center">
+  <h3>AWS VPN</h3>
+  <img src="../assets//redes-e-entrega-de-conteudo" alt="img" width="100"><br>
+</div><br>
+
+[Documentação]()
+
+
 
 - **Modelo:** Serviço de rede
 - **Híbrido:** ✅
@@ -250,7 +313,14 @@
 
 ---
 
-### **AWS Site-to-Site VPN**
+<div align="center">
+  <h3>AWS Site-to-Site VPN</h3>
+  <img src="../assets//redes-e-entrega-de-conteudo/Site to Site VPN.png" alt="img" width="100"><br>
+</div><br>
+
+[Documentação]()
+
+
 
 - **Modelo:** Serviço de rede
 - **Híbrido:** ✅
@@ -278,7 +348,14 @@
 
 ---
 
-### **AWS Client VPN**
+<div align="center">
+  <h3>AWS Client VPN</h3>
+  <img src="../assets//redes-e-entrega-de-conteudo/Client VPN.png" alt="img" width="100"><br>
+</div><br>
+
+[Documentação]()
+
+
 
 - **Modelo:** Serviço de rede
 - **Híbrido:** ✅
