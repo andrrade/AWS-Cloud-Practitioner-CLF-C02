@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="../assets/machine-learning/Comprehendd.png" alt="img" width="100"><br>
   <h3>Amazon Comprehend</h3>
+  <img src="../assets/machine-learning/Comprehendd.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Comprehend is a natural-language processing (NLP) service that uses machine learning (ML) to uncover information in unstructured data and text within documents.
-
 [Documentação](https://aws.amazon.com/pt/comprehend/)
+
+Amazon Comprehend is a natural-language processing (NLP) service that uses machine learning (ML) to uncover information in unstructured data and text within documents.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -28,13 +28,13 @@ Amazon Comprehend is a natural-language processing (NLP) service that uses machi
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/Kendrraa.png" alt="img" width="100"><br>
   <h3>Amazon Kendra</h3>
+  <img src="../assets/machine-learning/Kendrraa.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Kendra offers an intelligent enterprise search solution that increases employee productivity and improves customer satisfaction.
-
 [Documentação](https://aws.amazon.com/pt/kendra/)
+
+Amazon Kendra offers an intelligent enterprise search solution that increases employee productivity and improves customer satisfaction.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -57,13 +57,13 @@ Amazon Kendra offers an intelligent enterprise search solution that increases em
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/Lexx.png" alt="img" width="100"><br>
   <h3>Amazon Lex</h3>
+  <img src="../assets/machine-learning/Lexx.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Lex is a fully managed AI service for building conversational interfaces into any application. Start creating a chatbot, voice assistant, machine learning-powered IVR, or virtual agent today.
-
 [Documentação](https://aws.amazon.com/pt/lex/)
+
+Amazon Lex is a fully managed AI service for building conversational interfaces into any application. Start creating a chatbot, voice assistant, machine learning-powered IVR, or virtual agent today.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -86,13 +86,13 @@ Amazon Lex is a fully managed AI service for building conversational interfaces 
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/Pollyy.png" alt="img" width="100"><br>
   <h3>Amazon Polly</h3>
+  <img src="../assets/machine-learning/Pollyy.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Polly turns text into lifelike speech, allowing you to create applications that talk and build entirely new categories of speech-activated applications.
-
 [Documentação](https://aws.amazon.com/pt/polly/)
+
+Amazon Polly turns text into lifelike speech, allowing you to create applications that talk and build entirely new categories of speech-activated applications.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -115,13 +115,13 @@ Amazon Polly turns text into lifelike speech, allowing you to create application
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/Rekognitionn.png" alt="img" width="100"><br>
   <h3>Amazon Rekognition</h3>
+  <img src="../assets/machine-learning/Rekognitionn.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Rekognition automates image recognition and video analysis for your applications without machine learning (ML) experience.
-
 [Documentação](https://aws.amazon.com/pt/rekognition/)
+
+Amazon Rekognition automates image recognition and video analysis for your applications without machine learning (ML) experience.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -144,13 +144,13 @@ Amazon Rekognition automates image recognition and video analysis for your appli
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/SageMaker.png" alt="img" width="100"><br>
   <h3>Amazon SageMaker IA</h3>
+  <img src="../assets/machine-learning/SageMaker.png" alt="img" width="100"><br>
 </div><br>
 
-Build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows.
-
 [Documentação](https://aws.amazon.com/pt/sagemaker/)
+
+Build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -173,13 +173,13 @@ Build, train, and deploy machine learning (ML) models for any use case with full
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/Textract.png" alt="img" width="100"><br>
   <h3>Amazon Textract</h3>
+  <img src="../assets/machine-learning/Textract.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Textract is a machine learning (ML) service that uses optical character recognition (OCR) to automatically extract text, handwriting, and data from scanned PDF documents, forms, and tables.
-
 [Documentação](https://aws.amazon.com/pt/textract/)
+
+Amazon Textract is a machine learning (ML) service that uses optical character recognition (OCR) to automatically extract text, handwriting, and data from scanned PDF documents, forms, and tables.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -202,13 +202,13 @@ Amazon Textract is a machine learning (ML) service that uses optical character r
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/Transcribe.png" alt="img" width="100"><br>
   <h3>Amazon Transcribe</h3>
+  <img src="../assets/machine-learning/Transcribe.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for developers to add speech to text capability to their applications
-
 [Documentação](https://aws.amazon.com/pt/transcribe/)
+
+Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for developers to add speech to text capability to their applications
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -231,13 +231,13 @@ Amazon Transcribe is an automatic speech recognition (ASR) service that makes it
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/Translate.png" alt="img" width="100"><br>
   <h3>Amazon Translate</h3>
+  <img src="../assets/machine-learning/Translate.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon Translate, a neural machine translation service, uses deep learning to deliver more accurate and natural translation than traditional algorithms.
-
 [Documentação](https://aws.amazon.com/pt/translate/)
+
+Amazon Translate, a neural machine translation service, uses deep learning to deliver more accurate and natural translation than traditional algorithms.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
