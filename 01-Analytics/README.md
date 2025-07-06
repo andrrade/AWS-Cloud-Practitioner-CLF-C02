@@ -118,8 +118,8 @@ Collect streaming data, create a real-time data pipeline, and analyze real-time 
 ---
 
 <div align="center">
-  <img src="../assets/analytics/OpenSearch Service.png" alt="img" width="100"><br>
   <h3>Amazon OpenSearch Service</h3>
+  <img src="../assets/analytics/OpenSearch Service.png" alt="img" width="100"><br>
 </div><br>
 
 [Documentação](https://aws.amazon.com/pt/opensearch-service/)
