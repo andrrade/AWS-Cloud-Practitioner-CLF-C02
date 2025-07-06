@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/gerenciamento-financeiro-da-nuvem/Budgets.png" alt="img" width="100"><br>
+  <img src="../assets/gerenciamento-financeiro-da-nuvem/Budgetss.png" alt="img" width="100"><br>
   <h3>AWS Budgets</h3>
 </div><br>
 
