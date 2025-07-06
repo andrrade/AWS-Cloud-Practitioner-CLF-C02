@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="../assets/web-e-dispositivos-moveis-de-frontend/Amplify.png" alt="img" width="100"><br>
   <h3>AWS Amplify</h3>
+  <img src="../assets/web-e-dispositivos-moveis-de-frontend/Amplify.png" alt="img" width="100"><br>
 </div><br>
 
-Accelerate your full-stack web and mobile app development with AWS Amplify. Easy to start, easy to scale. No cloud expertise needed.
-
 [Documentação](https://aws.amazon.com/pt/amplify/)
+
+Accelerate your full-stack web and mobile app development with AWS Amplify. Easy to start, easy to scale. No cloud expertise needed.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -28,13 +28,13 @@ Accelerate your full-stack web and mobile app development with AWS Amplify. Easy
 ---
 
 <div align="center">
-  <img src="../assets/web-e-dispositivos-moveis-de-frontend/AppSync.png" alt="img" width="100"><br>
   <h3>AWS AppSync</h3>
+  <img src="../assets/web-e-dispositivos-moveis-de-frontend/AppSync.png" alt="img" width="100"><br>
 </div><br>
 
-Accelerate application development with 100% serverless GraphQL and Pub/Sub APIs. Get 250,000 API requests free per month for 12 months.
-
 [Documentação](https://aws.amazon.com/pt/appsync/)
+
+Accelerate application development with 100% serverless GraphQL and Pub/Sub APIs. Get 250,000 API requests free per month for 12 months.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
