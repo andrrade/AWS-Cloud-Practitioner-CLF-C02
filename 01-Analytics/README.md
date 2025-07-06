@@ -3,6 +3,10 @@
   <h3>Amazon Athena</h3>
 </div><br>
 
+Amazon Athena is a serverless, interactive analytics service that provides a simplified and flexible way to analyze petabytes of data where it lives.
+
+[Documentação](https://aws.amazon.com/pt/athena/)
+
 **Modelo:** PaaS
 **Híbrido:** ✅
 **Totalmente gerenciado pela AWS:** ✅
@@ -26,12 +30,14 @@
 
 ---
 
-### **Amazon EMR**
-
 <div align="center">
   <img src="../assets/analytics/EMR.png" alt="img" width="100"><br>
-  <h3>Amazon Athena</h3>
+  <h3>Amazon EMR</h3>
 </div><br>
+
+Amazon EMR is a cloud big data platform for running large-scale distributed data processing jobs, interactive SQL queries, and machine learning applications using open-source analytics frameworks such as Apache Spark, Apache Hive, and Presto.
+
+[Documentação](https://aws.amazon.com/pt/emr/)
 
 **Modelo:** PaaS
 **Híbrido:** ✅
@@ -57,12 +63,14 @@
 
 ---
 
-### **AWS Glue**
-
 <div align="center">
   <img src="../assets/analytics/Gluee.png" alt="img" width="100"><br>
-  <h3>Amazon Athena</h3>
+  <h3>AWS Glue</h3>
 </div><br>
+
+AWS Glue is a serverless data integration service that makes it easy to discover, prepare, integrate, and modernize the extract, transform, and load (ETL) process.
+
+[Documentação](https://aws.amazon.com/pt/glue/)
 
 **Modelo:** PaaS
 **Híbrido:** ✅
@@ -89,12 +97,14 @@
 
 ---
 
-### **Amazon Kinesis**
-
 <div align="center">
   <img src="../assets/analytics/Kinesiss.png" alt="img" width="100"><br>
-  <h3>Amazon Athena</h3>
+  <h3>Amazon Kinesis</h3>
 </div><br>
+
+Collect streaming data, create a real-time data pipeline, and analyze real-time video and data streams, log analytics, event analytics, and IoT analytics.
+
+[Documentação](https://aws.amazon.com/pt/kinesis/)
 
 **Modelo:** PaaS
 **Híbrido:** ✅
@@ -121,12 +131,14 @@
 
 ---
 
-### **Amazon OpenSearch Service**
-
 <div align="center">
   <img src="../assets/analytics/OpenSearch Service.png" alt="img" width="100"><br>
-  <h3>Amazon Athena</h3>
+  <h3>Amazon OpenSearch Service</h3>
 </div><br>
+
+Unlock fast and scalable search, monitoring, and analysis for log analytics and website search by deploying and running OpenSearch and ALv2 Elasticsearch.
+
+[Documentação](https://aws.amazon.com/pt/opensearch-service/)
 
 **Modelo:** PaaS
 **Híbrido:** ✅
@@ -153,12 +165,14 @@
 
 ---
 
-### **Amazon QuickSight**
-
 <div align="center">
   <img src="../assets/analytics/QuickSight.png" alt="img" width="100"><br>
-  <h3>Amazon Athena</h3>
+  <h3>Amazon QuickSight</h3>
 </div><br>
+
+Amazon QuickSight is a cloud-native, serverless, business intelligence with native ML integrations and usage-based pricing, allowing insights for all users.
+
+[Documentação](https://aws.amazon.com/pt/quicksight/)
 
 **Modelo:** SaaS
 **Híbrido:** ✅
@@ -185,12 +199,14 @@
 
 ---
 
-### **Amazon Redshift**
-
 <div align="center">
   <img src="../assets/analytics/Redshiftt.png" alt="img" width="100"><br>
-  <h3>Amazon Athena</h3>
+  <h3>Amazon Redshift</h3>
 </div><br>
+
+Amazon Redshift uses SQL to analyze structured and semi-structured data across data warehouses, operational databases, and data lakes, using AWS-designed hardware and machine learning to deliver the best price performance at any scale.
+
+[Documentação](https://aws.amazon.com/pt/redshift/)
 
 **Modelo:** PaaS
 **Híbrido:** ✅
