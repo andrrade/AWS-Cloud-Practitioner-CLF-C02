@@ -10,7 +10,6 @@ Amazon Athena is a serverless, interactive analytics service that provides a sim
 Amazon Athena é um serviço de análise interativa e sem servidor (serverless) que oferece uma forma simplificada e flexível de analisar petabytes de dados onde eles estão armazenados.
 
 - **Modelo:** PaaS
-- **Híbrido:** ✅
 - **Totalmente gerenciado pela AWS:** ✅
 - **Sem servidor:** ✅
 - **Opera:** Layer 7 – Consulta de dados no S3 com SQL
