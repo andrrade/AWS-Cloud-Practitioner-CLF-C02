@@ -3,9 +3,9 @@
   <img src="../assets//redes-e-entrega-de-conteudo/API Gateway.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/api-gateway/)
 
-
+Amazon API Gateway helps you build HTTP, REST, and WebSocket APIs with a fully managed service that makes it easy to create, publish, maintain, manage, monitor, and secure APIs.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -32,9 +32,9 @@
   <img src="../assets//redes-e-entrega-de-conteudo/CloudFront.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/cloudfront/)
 
-
+Amazon CloudFront is a content delivery network (CDN) service that helps you distribute your static and dynamic content quickly and reliably with high speed performance, security, and developer ease-of-use.
 
 - **Modelo:** CDN (Content Delivery Network) / PaaS
 - **Híbrido:** ✅
@@ -61,9 +61,9 @@
   <img src="../assets//redes-e-entrega-de-conteudo/Direct Connect.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/directconnect/)
 
-
+AWS Direct Connect is a cloud service that links your network directly to AWS to deliver consistent, low-latency performance.
 
 - **Modelo:** Serviço de rede dedicado
 - **Híbrido:** ✅
@@ -90,9 +90,9 @@
   <img src="../assets//redes-e-entrega-de-conteudo/Global Accelerator.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/global-accelerator/)
 
-
+AWS Global Accelerator is a networking service that simplifies traffic management and improves performance by up to 60%.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -119,9 +119,9 @@
   <img src="../assets//redes-e-entrega-de-conteudo/PrivateLink.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/privatelink/)
 
-
+AWS PrivateLink provides private connectivity between VPCs, AWS services, and on-premises applications securely on AWS.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -148,9 +148,9 @@
   <img src="../assets//redes-e-entrega-de-conteudo/Route 53.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/route53/)
 
-
+Amazon Route 53 is a highly available and scalable cloud domain name system (DNS) service. Enables to customize DNS routing policies to reduce latency.
 
 - **Modelo:** SaaS (DNS)
 - **Híbrido:** ✅
@@ -177,9 +177,9 @@
   <img src="../assets//redes-e-entrega-de-conteudo/Transit Gateway.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/transit-gateway/)
 
-
+AWS Transit Gateway connects virtual private cloud and on-premises networks through a central hub. It acts as a highly scalable cloud router so you can easily add to your network.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -206,9 +206,9 @@
   <img src="../assets//redes-e-entrega-de-conteudo/Virtual Private Cloud.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/vpc/)
 
-
+Amazon Virtual Private Cloud (VPC) is a service that lets you launch AWS resources in a logically isolated virtual network that you define.
 
 - **Modelo:** IaaS
 - **Híbrido:** ✅
@@ -231,42 +231,13 @@
 ---
 
 <div align="center">
-  <h3>AWS VPN</h3>
-  <img src="../assets//redes-e-entrega-de-conteudo" alt="img" width="100"><br>
-</div><br>
-
-[Documentação]()
-
-
-
-- **Modelo:** Serviço de rede
-- **Híbrido:** ✅
-- **Totalmente gerenciado pela AWS:** ✅
-- **Sem servidor:** N/A
-- **Escopo:** Regional
-- **Opera:** Nível de conexão – VPN para conectar redes locais à AWS
-- **Shared Model:**
-  -  🔹 AWS gerencia terminais e criptografia
-  -  🔹 Você configura e mantém endpoints
-- **Características:** Conexão segura, criptografada via internet
-- **Palavras-chave:** VPN, conexão segura, criptografia
-- **Exemplo:** É como um túnel seguro entre sua empresa e a AWS pela internet.
-- 📝 **Como cai na prova:**
-  -  🔹 “Quer conectar rede local à AWS com segurança...”
-  -  🔹 “Qual serviço cria VPN com criptografia?”
-- 💰 **Como é cobrado:**
-  -  🔹 Por hora de conexão e dados transferidos
-
----
-
-<div align="center">
   <h3>AWS Site-to-Site VPN</h3>
   <img src="../assets//redes-e-entrega-de-conteudo/Site to Site VPN.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/vpn/site-to-site-vpn/)
 
-
+Create secure connections between your data center or branch office and AWS in minutes using AWS Site-to-Site VPN.
 
 - **Modelo:** Serviço de rede
 - **Híbrido:** ✅
@@ -293,9 +264,9 @@
   <img src="../assets//redes-e-entrega-de-conteudo/Client VPN.png" alt="img" width="100"><br>
 </div><br>
 
-[Documentação]()
+[Documentação](https://aws.amazon.com/pt/vpn/client-vpn/)
 
-
+Securely connect your remote workforce to resources within both AWS and your on-premises network using AWS Client VPN.
 
 - **Modelo:** Serviço de rede
 - **Híbrido:** ✅
