@@ -28,7 +28,7 @@ Amazon AppStream 2.0 offers secure, reliable, and scalable access to non-persist
 ---
 
 <div align="center">
-  <img src="../assets/computacao-para-usuario-final/WorkSpaces Familyy.png" alt="img" width="100"><br>
+  <img src="../assets/computacao-para-usuario-final/WorkSpaces.png" alt="img" width="100"><br>
   <h3>Amazon WorkSpaces</h3>
 </div><br>
 
@@ -57,7 +57,7 @@ Amazon AppStream 2.0 offers secure, reliable, and scalable access to non-persist
 ---
 
 <div align="center">
-  <img src="../assets/computacao-para-usuario-final/WorkSpaces.png" alt="img" width="100"><br>
+  <img src="../assets/computacao-para-usuario-final/WorkSpaces Familyy.png" alt="img" width="100"><br>
   <h3>Amazon WorkSpaces Secure Browser</h3>
 </div><br>
 
