@@ -28,7 +28,7 @@ Amazon Comprehend is a natural-language processing (NLP) service that uses machi
 ---
 
 <div align="center">
-  <img src="../assets/machine-learning/Kendraa.png" alt="img" width="100"><br>
+  <img src="../assets/machine-learning/Kendrraa.png" alt="img" width="100"><br>
   <h3>Amazon Kendra</h3>
 </div><br>
 
