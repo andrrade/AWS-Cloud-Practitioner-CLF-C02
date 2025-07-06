@@ -159,3 +159,9 @@
   - [Amazon S3](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/19-Armazenamento#amazon-s3) <img src="./assets/armazenamento/Simple Storage Service.png" alt="img" width="30">
   - [Amazon S3 Glacier](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/19-Armazenamento#amazon-s3-glacier) <img src="./assets/armazenamento/Simple Storage Service Glacier.png" alt="img" width="30">
   - [AWS Storage Gateway](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/19-Armazenamento#aws-storage-gateway) <img src="./assets/armazenamento/Storage Gateway.png" alt="img" width="30">
+
+---
+
+[Modelo de responsabilidade compartilhada](https://aws.amazon.com/pt/compliance/shared-responsibility-model/)
+
+<img src="./assets/aws-shared-responsibility-model.png" alt="img" width="250">
