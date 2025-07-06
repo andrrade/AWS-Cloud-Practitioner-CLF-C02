@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="../assets/capacitacao-de-clientes/Support.png" alt="img" width="100"><br>
   <h3>AWS Support</h3>
+  <img src="../assets/capacitacao-de-clientes/Support.png" alt="img" width="100"><br>
 </div><br>
 
-Compare AWS premium customer support plans and purchase the level of support that’s right for your business needs.
-
 [Documentação](https://aws.amazon.com/pt/premiumsupport/)
+
+Compare AWS premium customer support plans and purchase the level of support that’s right for your business needs.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
