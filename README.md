@@ -164,4 +164,7 @@
 
 [Modelo de responsabilidade compartilhada](https://aws.amazon.com/pt/compliance/shared-responsibility-model/)
 
-<img src="./assets/aws-shared-responsibility-model.png" alt="img" width="250">
+<div align="center">
+  <h3>AWS IoT Core</h3>
+  <img src="./assets/aws-shared-responsibility-model.png" alt="img" width="100"><br>
+</div><br>
