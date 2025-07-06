@@ -1,7 +1,7 @@
 <div align="center">
   <img src="../assets/analytics/Athenaa.png" alt="img" width="100"><br>
   <h3>Amazon Athena</h3>
-</div>
+</div><br>
 
 **Modelo:** PaaS
 **Híbrido:** ✅
@@ -28,10 +28,10 @@
 
 ### **Amazon EMR**
 
-<p align="center">
-  <br>
-  <img src="../assets/analytics/EMR.png" alt="img" width="100">
-</p>
+<div align="center">
+  <img src="../assets/analytics/EMR.png" alt="img" width="100"><br>
+  <h3>Amazon Athena</h3>
+</div><br>
 
 **Modelo:** PaaS
 **Híbrido:** ✅
@@ -59,10 +59,10 @@
 
 ### **AWS Glue**
 
-<p align="center">
-  <br>
-  <img src="../assets/analytics/Gluee.png" alt="img" width="100">
-</p>
+<div align="center">
+  <img src="../assets/analytics/Gluee.png" alt="img" width="100"><br>
+  <h3>Amazon Athena</h3>
+</div><br>
 
 **Modelo:** PaaS
 **Híbrido:** ✅
@@ -91,10 +91,10 @@
 
 ### **Amazon Kinesis**
 
-<p align="center">
-  <br>
-  <img src="../assets/analytics/Kinesiss.png" alt="img" width="100">
-</p>
+<div align="center">
+  <img src="../assets/analytics/Kinesiss.png" alt="img" width="100"><br>
+  <h3>Amazon Athena</h3>
+</div><br>
 
 **Modelo:** PaaS
 **Híbrido:** ✅
@@ -123,10 +123,10 @@
 
 ### **Amazon OpenSearch Service**
 
-<p align="center">
-  <br>
-  <img src="../assets/analytics/OpenSearch Service.png" alt="img" width="100">
-</p>
+<div align="center">
+  <img src="../assets/analytics/OpenSearch Service.png" alt="img" width="100"><br>
+  <h3>Amazon Athena</h3>
+</div><br>
 
 **Modelo:** PaaS
 **Híbrido:** ✅
@@ -155,10 +155,10 @@
 
 ### **Amazon QuickSight**
 
-<p align="center">
-  <br>
-  <img src="../assets/analytics/QuickSight.png" alt="img" width="100">
-</p>
+<div align="center">
+  <img src="../assets/analytics/QuickSight.png" alt="img" width="100"><br>
+  <h3>Amazon Athena</h3>
+</div><br>
 
 **Modelo:** SaaS
 **Híbrido:** ✅
@@ -187,10 +187,10 @@
 
 ### **Amazon Redshift**
 
-<p align="center">
-  <br>
-  <img src="../assets/analytics/Redshiftt.png" alt="img" width="100">
-</p>
+<div align="center">
+  <img src="../assets/analytics/Redshiftt.png" alt="img" width="100"><br>
+  <h3>Amazon Athena</h3>
+</div><br>
 
 **Modelo:** PaaS
 **Híbrido:** ✅
