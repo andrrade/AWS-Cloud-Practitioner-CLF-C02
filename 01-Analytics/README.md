@@ -35,9 +35,9 @@ Amazon Athena is a serverless, interactive analytics service that provides a sim
   <img src="../assets/analytics/EMR.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon EMR is a cloud big data platform for running large-scale distributed data processing jobs, interactive SQL queries, and machine learning applications using open-source analytics frameworks such as Apache Spark, Apache Hive, and Presto.
-
 [Documentação](https://aws.amazon.com/pt/emr/)
+
+Amazon EMR is a cloud big data platform for running large-scale distributed data processing jobs, interactive SQL queries, and machine learning applications using open-source analytics frameworks such as Apache Spark, Apache Hive, and Presto.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -64,9 +64,9 @@ Amazon EMR is a cloud big data platform for running large-scale distributed data
   <img src="../assets/analytics/Gluee.png" alt="img" width="100"><br>
 </div><br>
 
-AWS Glue is a serverless data integration service that makes it easy to discover, prepare, integrate, and modernize the extract, transform, and load (ETL) process.
-
 [Documentação](https://aws.amazon.com/pt/glue/)
+
+AWS Glue is a serverless data integration service that makes it easy to discover, prepare, integrate, and modernize the extract, transform, and load (ETL) process.
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
