@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="../assets/computacao-para-usuario-final/AppStream.png" alt="img" width="100"><br>
   <h3>Amazon AppStream 2.0</h3>
+  <img src="../assets/computacao-para-usuario-final/AppStream.png" alt="img" width="100"><br>
 </div><br>
 
-Amazon AppStream 2.0 offers secure, reliable, and scalable access to non-persistent desktops and applications from any location.
-
 [Documentação](https://aws.amazon.com/pt/appstream2/)
+
+Amazon AppStream 2.0 offers secure, reliable, and scalable access to non-persistent desktops and applications from any location.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -28,13 +28,13 @@ Amazon AppStream 2.0 offers secure, reliable, and scalable access to non-persist
 ---
 
 <div align="center">
-  <img src="../assets/computacao-para-usuario-final/WorkSpaces.png" alt="img" width="100"><br>
   <h3>Amazon WorkSpaces</h3>
+  <img src="../assets/computacao-para-usuario-final/WorkSpaces.png" alt="img" width="100"><br>
 </div><br>
 
-Áreas de trabalho virtuais totalmente gerenciadas.
-
 [Documentação](https://aws.amazon.com/pt/workspaces-family/workspaces/)
+
+Áreas de trabalho virtuais totalmente gerenciadas.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
@@ -57,13 +57,13 @@ Amazon AppStream 2.0 offers secure, reliable, and scalable access to non-persist
 ---
 
 <div align="center">
-  <img src="../assets/computacao-para-usuario-final/WorkSpaces Familyy.png" alt="img" width="100"><br>
   <h3>Amazon WorkSpaces Secure Browser</h3>
+  <img src="../assets/computacao-para-usuario-final/WorkSpaces Familyy.png" alt="img" width="100"><br>
 </div><br>
 
-O WorkSpaces Secure Browser funciona com o navegador executado localmente no dispositivo do usuário final e elimina a necessidade de a TI gerenciar software, infraestrutura e conexões de rede privada virtual (VPN) especializados de clientes.
-
 [Documentação](https://aws.amazon.com/pt/workspaces-family/secure-browser/)
+
+O WorkSpaces Secure Browser funciona com o navegador executado localmente no dispositivo do usuário final e elimina a necessidade de a TI gerenciar software, infraestrutura e conexões de rede privada virtual (VPN) especializados de clientes.
 
 - **Modelo:** SaaS
 - **Híbrido:** ✅
