@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="../assets" alt="img" width="100"><br>
+  <h3></h3>
+</div><br>
+
+
+
+[Documentação]()
+
 ### **Amazon Comprehend**
 
 - **Modelo:** SaaS
@@ -24,6 +33,15 @@
 -  🔹 Por quantidade de texto processado
 
 ---
+
+<div align="center">
+  <img src="../assets" alt="img" width="100"><br>
+  <h3></h3>
+</div><br>
+
+
+
+[Documentação]()
 
 ### **Amazon Kendra**
 
@@ -52,6 +70,15 @@
 
 ---
 
+<div align="center">
+  <img src="../assets" alt="img" width="100"><br>
+  <h3></h3>
+</div><br>
+
+
+
+[Documentação]()
+
 ### **Amazon Lex**
 
 - **Modelo:** SaaS
@@ -79,6 +106,15 @@
 
 ---
 
+<div align="center">
+  <img src="../assets" alt="img" width="100"><br>
+  <h3></h3>
+</div><br>
+
+
+
+[Documentação]()
+
 ### **Amazon Polly**
 
 - **Modelo:** SaaS
@@ -103,6 +139,17 @@
 - 
 - 💰 **Como é cobrado:**
 -  🔹 Por caracteres convertidos em voz
+
+---
+
+<div align="center">
+  <img src="../assets" alt="img" width="100"><br>
+  <h3></h3>
+</div><br>
+
+
+
+[Documentação]()
 
 ### **Amazon Rekognition**
 
@@ -131,6 +178,15 @@
 
 ---
 
+<div align="center">
+  <img src="../assets" alt="img" width="100"><br>
+  <h3></h3>
+</div><br>
+
+
+
+[Documentação]()
+
 ### **Amazon SageMaker IA**
 
 - **Modelo:** PaaS
@@ -157,6 +213,15 @@
 -  🔹 Por instâncias usadas, tempo de treino e endpoints
 
 ---
+
+<div align="center">
+  <img src="../assets" alt="img" width="100"><br>
+  <h3></h3>
+</div><br>
+
+
+
+[Documentação]()
 
 ### **Amazon Textract**
 
@@ -185,6 +250,15 @@
 
 ---
 
+<div align="center">
+  <img src="../assets" alt="img" width="100"><br>
+  <h3></h3>
+</div><br>
+
+
+
+[Documentação]()
+
 ### **Amazon Transcribe**
 
 - **Modelo:** SaaS
@@ -211,6 +285,15 @@
 -  🔹 Por minuto de áudio transcrito
 
 ---
+
+<div align="center">
+  <img src="../assets" alt="img" width="100"><br>
+  <h3></h3>
+</div><br>
+
+
+
+[Documentação]()
 
 ### **Amazon Translate**
 
