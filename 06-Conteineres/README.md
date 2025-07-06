@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="../assets/conteineres" alt="img" width="100"><br>
+  <img src="../assets/conteineres/Elastic Container Registry.png" alt="img" width="100"><br>
   <h3>Amazon Elastic Container Registry (Amazon ECR)</h3>
 </div><br>
 
-[Documentação]()
+Amazon Elastic Container Registry (ECR) is a fully managed Docker container registry that makes it easy to store, share, and deploy container images.
+
+[Documentação](https://aws.amazon.com/pt/ecr/)
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -31,11 +33,13 @@
 ---
 
 <div align="center">
-  <img src="../assets/conteineres" alt="img" width="100"><br>
+  <img src="../assets/conteineres/Elastic Container Service.png" alt="img" width="100"><br>
   <h3>Amazon Elastic Container Service (Amazon ECS)</h3>
 </div><br>
 
-[Documentação]()
+Amazon Elastic Container Service (Amazon ECS) provides a fully managed container service solution that’s easy to use, scalable, secure, and reliable.
+
+[Documentação](https://aws.amazon.com/pt/ecs/)
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
@@ -63,11 +67,13 @@
 ---
 
 <div align="center">
-  <img src="../assets/conteineres" alt="img" width="100"><br>
+  <img src="../assets/conteineres/Elastic Kubernetes Service.png" alt="img" width="100"><br>
   <h3>Amazon Elastic Kubernetes Service (Amazon EKS)</h3>
 </div><br>
 
-[Documentação]()
+Amazon Elastic Kubernetes Service (EKS) is a managed service and certified Kubernetes conformant to run Kubernetes on AWS and on-premises.
+
+[Documentação](https://aws.amazon.com/pt/eks/)
 
 - **Modelo:** PaaS
 - **Híbrido:** ✅
