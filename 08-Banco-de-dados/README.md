@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets//banco-de-dados" alt="img" width="100"><br>
+  <img src="../assets//banco-de-dados/Aurora.png" alt="img" width="100"><br>
   <h3>Amazon Aurora</h3>
 </div><br>
 
@@ -28,7 +28,7 @@ Amazon Aurora is a global-scale relational database service built for the cloud 
 ---
 
 <div align="center">
-  <img src="../assets//banco-de-dados" alt="img" width="100"><br>
+  <img src="../assets//banco-de-dados/DocumentDB.png" alt="img" width="100"><br>
   <h3>Amazon DocumentDB</h3>
 </div><br>
 
@@ -57,7 +57,7 @@ Amazon DocumentDB (with MongoDB compatibility) is a fast, reliable, and fully ma
 ---
 
 <div align="center">
-  <img src="../assets//banco-de-dados" alt="img" width="100"><br>
+  <img src="../assets//banco-de-dados/DynamoDB.png" alt="img" width="100"><br>
   <h3>Amazon DynamoDB</h3>
 </div><br>
 
@@ -86,7 +86,7 @@ Amazon DynamoDB is a fully managed, serverless, key-value NoSQL database that ru
 ---
 
 <div align="center">
-  <img src="../assets//banco-de-dados" alt="img" width="100"><br>
+  <img src="../assets//banco-de-dados/ElastiCache.png" alt="img" width="100"><br>
   <h3>Amazon ElastiCache</h3>
 </div><br>
 
@@ -115,7 +115,7 @@ Amazon ElastiCache is a fully managed Redis- and Memcached-compatible service de
 ---
 
 <div align="center">
-  <img src="../assets//banco-de-dados" alt="img" width="100"><br>
+  <img src="../assets//banco-de-dados/Neptune.png" alt="img" width="100"><br>
   <h3>Amazon Neptune</h3>
 </div><br>
 
@@ -144,7 +144,7 @@ Amazon Neptune is a fast, fully managed database service powering graph use case
 ---
 
 <div align="center">
-  <img src="../assets//banco-de-dados" alt="img" width="100"><br>
+  <img src="../assets//banco-de-dados/RDS.png" alt="img" width="100"><br>
   <h3>Amazon RDS</h3>
 </div><br>
 
