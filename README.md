@@ -16,17 +16,17 @@
   - [Amazon Kinesis](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-kinesis) <img src="./assets/analytics/Kinesiss.png" alt="img" width="30">
   - [Amazon OpenSearch Service](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-opensearch-service) <img src="./assets/analytics/OpenSearch Service.png" alt="img" width="30">
   - [Amazon QuickSight](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-quicksight) <img src="./assets/analytics/QuickSight.png" alt="img" width="30">
-  - [Amazon Redshift](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-redshift) <img src="./assets/analytics/QuickSight.png" alt="img" width="30">
+  - [Amazon Redshift](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-redshift) <img src="./assets/analytics/Redshiftt.png" alt="img" width="30">
 
 - [Integração de aplicações](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/02-Integracao-de-aplicacoes)  
-  - [Amazon EventBridge](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/02-Integracao-de-aplicacoes#amazon-eventbridge)
-  - [Amazon Simple Notification Service (Amazon SNS)](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/02-Integracao-de-aplicacoes#amazon-simple-notification-service-sns)
-  - [Amazon Simple Queue Service (Amazon SQS) ](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/02-Integracao-de-aplicacoes#amazon-simple-queue-service-sqs)
-  - [AWS Step Functions](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/02-Integracao-de-aplicacoes#aws-step-functions)  
+  - [Amazon EventBridge](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/02-Integracao-de-aplicacoes#amazon-eventbridge) <img src="./assets/integracao-de-aplicacoes/EventBridge.png" alt="img" width="30">
+  - [Amazon Simple Notification Service (Amazon SNS)](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/02-Integracao-de-aplicacoes#amazon-simple-notification-service-sns) <img src="./assets/integracao-de-aplicacoes/Simple Notification Service.png" alt="img" width="30">
+  - [Amazon Simple Queue Service (Amazon SQS) ](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/02-Integracao-de-aplicacoes#amazon-simple-queue-service-sqs) <img src="./assets/integracao-de-aplicacoes/Simple Queue Service.png" alt="img" width="30">
+  - [AWS Step Functions](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/02-Integracao-de-aplicacoes#aws-step-functions) <img src="./assets/integracao-de-aplicacoes/Step Functions.png" alt="img" width="30">
 
-- [Aplicações empresariais](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/03-Aplica%C3%A7oes-empresariais)  
-  - [Amazon Connect](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/03-Aplica%C3%A7oes-empresariais#amazon-connect)
-  - [Amazon Simple Email Service (Amazon SES)](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/03-Aplica%C3%A7oes-empresariais#amazon-simple-email-service-amazon-ses)  
+- [Aplicações empresariais](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/03-Aplica%C3%A7oes-empresariais)
+  - [Amazon Connect](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/03-Aplica%C3%A7oes-empresariais#amazon-connect) <img src="./assets/aplicacoes-empresariais/Connect.png" alt="img" width="30">
+  - [Amazon Simple Email Service (Amazon SES)](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/03-Aplica%C3%A7oes-empresariais#amazon-simple-email-service-amazon-ses) <img src="./assets/aplicacoes-empresariais/Simple Email Service.png" alt="img" width="30">
 
 - [Gerenciamento financeiro da nuvem](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/04-Gerenciamento-financeiro-da-nuvem)  
   - [AWS Budgets](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/04-Gerenciamento-financeiro-da-nuvem#aws-budgets)
