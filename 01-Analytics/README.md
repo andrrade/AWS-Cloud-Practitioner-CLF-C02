@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/Athena.png" alt="img" width="200">
+  <img src="../assets/analytics/Athena.png" alt="img" width="100">
 </p>
 
 **Modelo:** PaaS
@@ -32,7 +32,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/EMR.png" alt="img" width="200">
+  <img src="../assets/analytics/EMR.png" alt="img" width="100">
 </p>
 
 **Modelo:** PaaS
@@ -63,7 +63,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/Glue.png" alt="img" width="200">
+  <img src="../assets/analytics/Glue.png" alt="img" width="100">
 </p>
 
 **Modelo:** PaaS
@@ -95,7 +95,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/Kinesis.png" alt="img" width="200">
+  <img src="../assets/analytics/Kinesis.png" alt="img" width="100">
 </p>
 
 **Modelo:** PaaS
@@ -127,7 +127,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/OpenSearch Service.png" alt="img" width="200">
+  <img src="../assets/analytics/OpenSearch Service.png" alt="img" width="100">
 </p>
 
 **Modelo:** PaaS
@@ -159,7 +159,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/QuickSight.png" alt="img" width="200">
+  <img src="../assets/analytics/QuickSight.png" alt="img" width="100">
 </p>
 
 **Modelo:** SaaS
@@ -191,7 +191,7 @@
 
 <p align="center">
   <br>
-  <img src="../assets/analytics/Redshift.png" alt="img" width="200">
+  <img src="../assets/analytics/Redshift.png" alt="img" width="100">
 </p>
 
 **Modelo:** PaaS
