@@ -7,7 +7,7 @@
 
 ## Sumário 📝
 
-- [Guia Oficial do Exame](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+- [Guia Oficial do Exame](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
 - [Analytics](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/tree/main/01-Analytics)  
   - [Amazon Athena](https://github.com/andrrade/AWS-Cloud-Practitioner-CLF-C02/blob/main/01-Analytics/README.md#amazon-athena) <img src="./assets/analytics/Athenaa.png" alt="img" width="30">
