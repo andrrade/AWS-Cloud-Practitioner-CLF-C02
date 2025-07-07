@@ -180,28 +180,28 @@
 | Serviço                       | Palavras‑chave                                        |
 | ----------------------------- | ----------------------------------------------------- |
 | **Amazon Athena**             | SQL no S3, pay‑per‑query, serverless                  |
-| **Amazon EMR**                | Hadoop/Spark, big‑data cluster, processamento massivo |
-| **AWS Glue**                  | ETL, Catálogo de Dados, preparação automática         |
-| **Amazon Kinesis**            | streaming em tempo real, shards, ingestão & análise   |
+| **Amazon EMR**                | Hadoop/Spark, big‑data cluster, processamento massivo, MapReduce |
+| **AWS Glue**                  | ETL (Extract, Transform and Load), Catálogo de Dados, preparação automática |
+| **Amazon Kinesis**            | streaming, insights em tempo real |
 | **Amazon OpenSearch Service** | Elasticsearch gerenciado, pesquisa, análise de logs   |
-| **Amazon QuickSight**         | BI serverless, dashboards, pay‑per‑session            |
-| **Amazon Redshift**           | data warehouse colunar, petabytes, SQL analítico      |
+| **Amazon QuickSight**         | BI serverless, dashboards, foco em análise visual, uso por usuários finais |
+| **Amazon Redshift**           | data warehouse, grande volume de dados, dados estruturados e semi-estruturados, produzir insights, totalmente gerenciado pela AWS, BI |
 
 ### 🔗 Integração de aplicações
 
 | Serviço                | Palavras‑chave                              |
 | ---------------------- | ------------------------------------------- |
-| **Amazon EventBridge** | barramento de eventos, SaaS/AWS, filtros    |
-| **Amazon SNS**         | pub/sub, tópicos, fan‑out, push/email/SQS   |
-| **Amazon SQS**         | filas, desacoplamento, mensagens confiáveis |
-| **AWS Step Functions** | orquestração, state machine, retries        |
+| **Amazon EventBridge** | barramento de eventos, SaaS |
+| **Amazon SNS**         | pub/sub, tópicos, enviar notificações |
+| **Amazon SQS**         | microsserviços, filas, desacoplamento, integração |
+| **AWS Step Functions** | fluxos |
 
 ### 🏢 Aplicações empresariais
 
 | Serviço            | Palavras‑chave                                 |
 | ------------------ | ---------------------------------------------- |
 | **Amazon Connect** | contact center na nuvem, voz, omnichannel      |
-| **Amazon SES**     | envio de e‑mails, SMTP, marketing/notificações |
+| **Amazon SES**     | envio de e‑mails, SMTP, marketing |
 
 ### 💰 Gerenciamento financeiro da nuvem
 
@@ -217,35 +217,53 @@
 | Serviço                   | Palavras‑chave                            |
 | ------------------------- | ----------------------------------------- |
 | **AWS Batch**             | jobs em lote, HPC, sem servidor           |
-| **Amazon EC2**            | IaaS, instâncias, AMI, tipos de instância |
+| **Amazon EC2**            | IaaS, instâncias, tipos de instância |
 | **AWS Elastic Beanstalk** | PaaS, deploy automático, pouco código     |
-| **Amazon Lightsail**      | VPS simples, preço fixo, stacks prontas   |
-| **AWS Outposts**          | hardware AWS on‑premises, mesma API       |
+| **Amazon Lightsail**      | VPS simples, preço fixo, site dinâmico, WordPress |
+| **AWS Outposts**          | hardware AWS on‑premises |
 
 ### 📦 Contêineres
 
 | Serviço        | Palavras‑chave                             |
 | -------------- | ------------------------------------------ |
-| **Amazon ECR** | registro Docker, privado, sem servidor     |
-| **Amazon ECS** | orquestração contêiner, cluster, Fargate   |
-| **Amazon EKS** | Kubernetes gerenciado, compatível upstream |
+| **Amazon ECR** | registro de Imagens Docker, privado, sem servidor |
+| **Amazon ECS** | contêiner, totalmente gerenciado pela AWS|
+| **Amazon EKS** | Kubernetes, cluster |
 
 ### 🙋‍♀️ Capacitação de clientes
 
 | Serviço         | Palavras‑chave                            |
 | --------------- | ----------------------------------------- |
-| **AWS Support** | planos Basic/Dev/Bus/Ent, Trusted Advisor |
+| **AWS Support** | planos Basic/Dev/Bus/Ent, Trusted Advisor, TAM, concierge |
+
+#### 🛠️ Tabela Completa — Planos do AWS Support
+
+| Plano | Público-Alvo | Suporte Técnico | Trusted Advisor | TAM | SLA (Respostas) | Recursos Adicionais |
+|-------|---------------|------------------|------------------|-----|------------------|----------------------|
+| 🟢 **Basic** (Gratuito) | Qualquer conta AWS | ❌ Sem suporte técnico<br>✅ Atendimento geral (24x7) por fórum, documentação, whitepapers | ✅ 7 verificações básicas | ❌ | ❌ | 🩺 **AWS Personal Health Dashboard** — visão personalizada da saúde dos serviços |
+| 🟡 **Developer** | Ambientes Dev/Test | 📧 E-mail em horário comercial<br>👥 Cloud Support Associates | ✅ 7 verificações básicas | ❌ | ⚙️ Geral: < 24h úteis<br>⚠️ Sistema degradado: < 12h úteis | 🔁 Casos e contatos ilimitados |
+| 🔵 **Business** | Produção | 📞📧💬 Suporte 24/7<br>🛠️ Cloud Support Engineers | ✅ Acesso total + API | ❌ | ⚙️ Geral: < 24h<br>⚠️ Sistema degradado: < 12h<br>❗ Produção degradada: < 4h<br>⛔ Produção fora: < 1h | 📊 **Infra Event Management** (opcional)<br>🔧 Integrações com ferramentas externas (CloudWatch, etc.) |
+| 🟠 **Enterprise On-Ramp** | Produção ou workloads críticos de negócios | 📞📧💬 Suporte 24/7<br>👥 **Pool de TAMs** | ✅ Acesso total + API | 🔄 Pool compartilhado | ⚠️ Produção degradada: < 4h<br>⛔ Produção fora: < 1h<br>🔥 Crítico fora: < 30min | 💬 Concierge billing/account<br>🛡️ Well-Architected Reviews<br>📊 Infra Event Management |
+| 🔴 **Enterprise** | Missão crítica | 📞📧💬 Suporte 24/7<br>👤 **TAM dedicado** | ✅ Acesso total + API | ✅ TAM designado | ⚠️ Produção degradada: < 4h<br>⛔ Produção fora: < 1h<br>🔥 Crítico fora: < 15min | 🧑‍🚒 **Incident Detection & Response** (opcional)<br>🛡️ Well-Architected & Operations Reviews<br>💬 Concierge Support Team |
+
+#### 🧠 Observações rápidas:
+
+* **Trusted Advisor:** acesso limitado no Basic/Developer; completo com API no Business+.
+* **SLA de resposta:** quanto mais alto o plano, **mais rápido o tempo de resposta para incidentes críticos**.
+* **TAM (Technical Account Manager):** só disponível no On-Ramp (em pool) e Enterprise (dedicado).
+* **Incident Detection & Response:** exclusivo do Enterprise (pago à parte).
+* **Well-Architected Reviews:** incluído a partir do On-Ramp.
 
 ### 🗄️ Bancos de dados
 
 | Serviço                | Palavras‑chave                             |
 | ---------------------- | ------------------------------------------ |
-| **Amazon Aurora**      | relacional MySQL/PG, 5× mais rápido        |
-| **Amazon DocumentDB**  | compatível MongoDB, JSON                   |
-| **Amazon DynamoDB**    | NoSQL chave‑valor, milissegundo            |
-| **Amazon ElastiCache** | Redis/Memcached, cache in‑memory           |
-| **Amazon Neptune**     | grafos, Gremlin/SPARQL, redes sociais      |
-| **Amazon RDS**         | relacional gerenciado, backups automáticos |
+| **Amazon Aurora**      | relacional, 5× mais rápido que MySQL e 3x mais rápido que PostgreSQL, totalmente gerenciado pela AWS |
+| **Amazon DocumentDB**  | é "igual" o MongoDB, JSON, NoSQL |
+| **Amazon DynamoDB**    | NoSQL, chave‑valor, totalmente gerenciado pela AWS |
+| **Amazon ElastiCache** | Redis/Memcached, cache in‑memory, dados frequentemente acessados, relacional (o cache do não relacional é o DaX - DynamoDB Accelerator |
+| **Amazon Neptune**     | grafos, redes sociais |
+| **Amazon RDS**         | relacional |
 
 ### 🛠️ Ferramentas do desenvolvedor
 
@@ -253,43 +271,43 @@
 | -------------------- | ------------------------------- |
 | **AWS CLI**          | automação via terminal, scripts |
 | **AWS CodeBuild**    | build contínuo, compilar/testar |
-| **AWS CodePipeline** | CI/CD, etapas automatizadas     |
-| **AWS X‑Ray**        | tracing, análise de desempenho  |
+| **AWS CodePipeline** | CI/CD, esteira |
+| **AWS X‑Ray**        | debugar, tracing, análise de desempenho |
 
 ### 💻 Computação para usuário final
 
 | Serviço                       | Palavras‑chave                    |
 | ----------------------------- | --------------------------------- |
-| **Amazon AppStream 2.0**      | streaming de apps, sem instalação |
-| **Amazon WorkSpaces**         | desktop virtual (VDI)             |
-| **WorkSpaces Secure Browser** | navegação isolada, sem plugins    |
+| **Amazon AppStream 2.0**      | streaming de apps, sem instalação, browser |
+| **Amazon WorkSpaces**         | desktop virtual (VDI) |
+| **WorkSpaces Secure Browser** | navegação isolada, sem plugins |
 
 ### 🌐 Web e dispositivos móveis (frontend)
 
 | Serviço         | Palavras‑chave                            |
 | --------------- | ----------------------------------------- |
-| **AWS Amplify** | backend serverless, hospedagem web/mobile |
-| **AWS AppSync** | GraphQL gerenciado, dados em tempo real   |
+| **AWS Amplify** | fullstack, serverless, hospedagem web/mobile |
+| **AWS AppSync** | backend |
 
 ### 📡 Internet das Coisas (IoT)
 
 | Serviço          | Palavras‑chave                               |
 | ---------------- | -------------------------------------------- |
-| **AWS IoT Core** | MQTT, device shadow, milhões de dispositivos |
+| **AWS IoT Core** | integração de dispositivos na AWS |
 
 ### 🤖 Machine Learning
 
 | Serviço                | Palavras‑chave                              |
 | ---------------------- | ------------------------------------------- |
-| **Amazon Comprehend**  | NLP, sentimentos, entidades                 |
-| **Amazon Kendra**      | busca corporativa inteligente               |
-| **Amazon Lex**         | chatbots, voz/texto, Alexa‑like             |
-| **Amazon Polly**       | TTS, fala natural                           |
-| **Amazon Rekognition** | visão computacional, moderação imagem/vídeo |
+| **Amazon Comprehend**  | NLP, sentimentos, compreender dados |
+| **Amazon Kendra**      | busca corporativa inteligente, pesquisa |
+| **Amazon Lex**         | chatbots, voz/texto, Alexa‑like |
+| **Amazon Polly**       | TTS (text to speech), fala natural |
+| **Amazon Rekognition** | visão computacional, moderação imagem/vídeo, labels |
 | **Amazon SageMaker**   | criar/treinar/implantar modelos             |
-| **Amazon Textract**    | OCR inteligente, formulários                |
+| **Amazon Textract**    | Extrair dados da imagem para texto, formulários |
 | **Amazon Transcribe**  | fala → texto, legendas                      |
-| **Amazon Translate**   | tradução neural, realtime                   |
+| **Amazon Translate**   | tradução neural, realtime |
 
 ### ⚙️ Gerenciamento & governança
 
@@ -298,19 +316,19 @@
 | **AWS Auto Scaling**          | ajuste automático de capacidade      |
 | **AWS CloudFormation**        | IaC, templates, pilhas               |
 | **AWS CloudTrail**            | logs API, auditoria                  |
-| **Amazon CloudWatch**         | métricas, logs, alarmes              |
-| **AWS Compute Optimizer**     | recomendações de tamanho             |
-| **AWS Config**                | inventário, compliance, drift        |
-| **AWS Control Tower**         | landing zone, governança multi‑conta |
+| **Amazon CloudWatch**         | métricas, logs, alarmes, monitoramento |
+| **AWS Compute Optimizer**     | recomendações de otimização |
+| **AWS Config**                | configurações de serviços, auditoria |        |
+| **AWS Control Tower**         | landing zone, governança multi‑conta, organizations |
 | **AWS Health Dashboard**      | status serviços, impacto conta       |
 | **AWS License Manager**       | BYOL, controle de licenças           |
-| **AWS Management Console**    | GUI central, gerenciar recursos      |
-| **AWS Organizations**         | múltiplas contas, SCP, fatura única  |
-| **AWS Service Catalog**       | portfólio aprovado, provisionamento  |
-| **Service Quotas**            | limites de serviço, solicita aumento |
+| **AWS Management Console**    | GUI central, gerenciar recursos, interface web |
+| **AWS Organizations**         | múltiplas contas, SCP, fatura única |
+| **AWS Service Catalog**       | portfólio aprovado, provisionamento, catálogo |
+| **Service Quotas**            | limites de serviço, solicita aumento, cotas de serviço |
 | **AWS Systems Manager**       | Run Command, Patch, Parameter Store  |
-| **AWS Trusted Advisor**       | boas práticas, custo, segurança      |
-| **AWS Well‑Architected Tool** | pilares, revisões, recomendações     |
+| **AWS Trusted Advisor**       | boas práticas, custo, segurança, recomendações |
+| **AWS Well‑Architected Tool** | 6 pilares, revisões |
 
 ### 🚚 Migração e transferência
 
@@ -318,7 +336,7 @@
 | ------------------------------------------- | --------------------------------------------------- |
 | **AWS Application Discovery Service**       | inventário on‑prem, planejamento                    |
 | **AWS Application Migration Service (MGN)** | lift‑and‑shift, replicação contínua                 |
-| **AWS DMS**                                 | migração de banco, downtime mínimo                  |
+| **AWS DMS**                                 | migração de banco                |
 | **Migration Evaluator**                     | sizing, TCO, estimativas                            |
 | **AWS Migration Hub**                       | painel unificado, status migração                   |
 | **AWS SCT**                                 | conversão de schema, Oracle → Aurora                |
@@ -329,9 +347,9 @@
 | Serviço                    | Palavras‑chave                       |
 | -------------------------- | ------------------------------------ |
 | **Amazon API Gateway**     | criar APIs REST/HTTP/WS, throttling  |
-| **Amazon CloudFront**      | CDN global, edge, cache              |
+| **Amazon CloudFront**      | CDN global, edge, cache, pontos de presença              |
 | **AWS Direct Connect**     | link dedicado, baixa latência        |
-| **AWS Global Accelerator** | IP anycast, roteamento rápido        |
+| **AWS Global Accelerator** | IP anycast, roteamento rápido, melhorar problemas de internet lenta |
 | **AWS PrivateLink**        | VPC Endpoint, serviço privado        |
 | **Amazon Route 53**        | DNS, domínios, failover              |
 | **AWS Transit Gateway**    | hub‑and‑spoke, roteamento entre VPCs |
@@ -343,25 +361,25 @@
 
 | Serviço                           | Palavras‑chave                     |
 | --------------------------------- | ---------------------------------- |
-| **AWS Artifact**                  | relatórios de conformidade         |
+| **AWS Artifact**                  | relatórios de conformidade, documentos         |
 | **AWS Audit Manager**             | automação de auditoria             |
-| **AWS Certificate Manager (ACM)** | TLS/SSL gerenciado                 |
-| **AWS CloudHSM**                  | módulo HSM dedicado                |
-| **Amazon Cognito**                | usuários, SSO, tokens JWT          |
-| **Amazon Detective**              | investigação forense, grafos       |
+| **AWS Certificate Manager (ACM)** | TLS/SSL gerenciado, criptografia de dados em trânsito                 |
+| **AWS CloudHSM**                  | módulo HSM dedicado, hardware                |
+| **Amazon Cognito**                | usuários, SSO, autenticação          |
+| **Amazon Detective**              | investigação forense, causa raíz |
 | **AWS Directory Service**         | Microsoft AD gerenciado            |
-| **AWS Firewall Manager**          | políticas WAF/Shield multi‑conta   |
-| **Amazon GuardDuty**              | detecção de ameaças, inteligência  |
+| **AWS Firewall Manager**          | políticas WAF/Shield multi‑conta, gerenciar   |
+| **Amazon GuardDuty**              | detecção de ameaças, monitoramento contínuo, malwares |
 | **AWS IAM**                       | usuários, roles, políticas         |
-| **IAM Identity Center (SSO)**     | acesso único multi‑conta           |
+| **IAM Identity Center (SSO)**     | acesso único multi‑conta (Single Sign On)          |
 | **Amazon Inspector**              | varredura CVE, vulnerabilidades    |
 | **AWS KMS**                       | chaves gerenciadas, criptografia   |
-| **Amazon Macie**                  | PII, dados sensíveis               |
+| **Amazon Macie**                  | PII, dados sensíveis, S3               |
 | **AWS RAM**                       | compartilhar recursos entre contas |
 | **AWS Secrets Manager**           | segredos, rotação automática       |
 | **AWS Security Hub**              | painel central de segurança        |
 | **AWS Shield**                    | proteção DDoS, Standard/Advanced   |
-| **AWS WAF**                       | firewall de aplicação web, regras  |
+| **AWS WAF**                       | firewall de aplicação web, bots, SQL injections  |
 
 ### ⚡ Sem servidor
 
@@ -382,4 +400,3 @@
 | **Amazon S3**                     | objetos, 11 × 9 durabilidade       |
 | **Amazon S3 Glacier**             | arquivamento, baixo custo          |
 | **AWS Storage Gateway**           | híbrido, cache, tape virtual       |
-
