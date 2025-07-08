@@ -344,6 +344,14 @@
 | **AWS SCT**                                 | conversão de schema, Oracle → Aurora                |
 | **Família AWS Snow**                        | Snowcone/Snowball/Snowmobile, transferência offline |
 
+| Tipo                             | Armazenamento                  | Computação                  | Características Principais                                                                 | Casos de Uso                                                 |
+|----------------------------------|--------------------------------|-----------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| **Snowcone**                     | 8 TB                           | Leve (limitada)             | Ultra portátil, resistente, pode ser alimentado por bateria ou USB-C                       | Coleta em campo, IoT, veículos, ambientes desconectados       |
+| **Snowball (clássico)**          | ~80 TB úteis                   | Nenhuma                     | Transporte seguro de grandes volumes de dados, sem recursos de computação                 | Migração simples de dados para a AWS                          |
+| **Snowball Edge - Storage Optimized** | 210 TB (armazenamento HDD)       | 104 vCPUs / 416 GB RAM      | Otimizado para armazenamento com poder computacional moderado                              | Migração de dados em larga escala com processamento leve       |
+| **Snowball Edge - Compute Optimized** | 28 TB (armazenamento SSD)        | 104 vCPUs / 416 GB RAM      | Otimizado para workloads de computação intensa na borda                                    | Machine learning, análise de vídeo, processamento local pesado |
+| **Snowmobile**                  | Até 100 PB (petabytes)         | N/A                         | Caminhão de transporte físico, segurança com escolta e criptografia em tempo real         | Migração de datacenters inteiros em escala exabyte            |
+
 ### 🌐 Redes & entrega de conteúdo
 
 | Serviço                    | Palavras‑chave                       |
