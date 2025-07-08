@@ -441,3 +441,26 @@
 | **Amazon S3**                     | objetos, 11 × 9 durabilidade       |
 | **Amazon S3 Glacier**             | arquivamento, baixo custo          |
 | **AWS Storage Gateway**           | híbrido, cache, tape virtual       |
+
+---
+
+## Outros
+
+[Tipos de Instâncias](https://aws.amazon.com/pt/ec2/instance-types/)
+
+### 🚀 Tipos de Instância EC2 – Visão Geral
+
+| **Letra**   | **Tipo (Inglês)**                | **Tipo (Português)**                 | **Descrição Resumida**                                                                                                                            |
+| ----------- | -------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **T, M**    | General Purpose                  | Uso Geral                            | Instâncias que fornecem equilíbrio entre computação, memória e rede, usadas para cargas variadas, como servidores web e repositórios de código.   |
+| **C**       | Compute Optimized                | Otimizadas para Computação           | Instâncias para aplicações que demandam alta performance de CPU, como processamento em lote, HPC, transcodificação de mídia, servidores de jogos. |
+| **R, X**    | Memory Optimized                 | Otimizadas para Memória              | Projetadas para workloads que processam grandes volumes de dados na memória, como bancos de dados e caches em memória.                            |
+| **P, G, F** | Accelerated Computing            | Computação Acelerada                 | Usam aceleradores de hardware (GPUs, FPGAs) para cálculos mais rápidos, gráficos e machine learning.                                              |
+| **I, D**    | Storage Optimized                | Otimizadas para Armazenamento        | Indicadas para cargas que exigem alto throughput de leitura/gravação em armazenamento local, com baixa latência (ex: OLTP, bancos NoSQL).         |
+| **H**       | High Performance Computing (HPC) | Computação de Alta Performance (HPC) | Instâncias específicas para cargas HPC, oferecendo melhor custo-benefício para simulações, aprendizado profundo e workloads científicos.          |
+
+### 📌 Nomenclatura das instâncias EC2 (exemplo: m5.2xlarge)
+
+* **m**: família / classe da instância (ex: M = General Purpose)
+* **5**: geração da instância (mais alto é mais novo e eficiente)
+* **2xlarge**: tamanho da instância dentro da família (ex: 2xlarge > large > medium)
