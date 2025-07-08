@@ -464,3 +464,22 @@
 * **m**: família / classe da instância (ex: M = General Purpose)
 * **5**: geração da instância (mais alto é mais novo e eficiente)
 * **2xlarge**: tamanho da instância dentro da família (ex: 2xlarge > large > medium)
+
+---
+
+### Tabela Resumo: Métodos de Conexão SSH para EC2
+
+| Sistema Operacional | SSH (Terminal Nativo)        | Putty (Cliente SSH)           | EC2 Instance Connect (Conexão Web)           |
+| ------------------- | ---------------------------- | ----------------------------- | -------------------------------------------- |
+| **Mac**             | ✅                   | ❌    | ✅ |
+| **Linux**           | ✅                   | ❌    | ✅ |
+| **Windows < 10**    | ❌   | ✅  | ✅  |
+| **Windows >= 10**   | ✅  | ✅  | ✅  |
+
+### Explicação rápida:
+
+* **SSH (Terminal Nativo):** Uso direto do terminal/console do sistema, comum em Linux e Mac. No Windows 10 ou superior, é possível usar o PowerShell ou o WSL para SSH nativo. Windows abaixo do 10 não possui cliente SSH nativo.
+
+* **Putty:** Cliente SSH gráfico muito usado em Windows (especialmente antes do Windows 10) para acessar servidores Linux/Unix via SSH.
+
+* **EC2 Instance Connect:** Ferramenta da AWS para acessar instâncias EC2 diretamente pelo navegador, sem necessidade de cliente externo ou chave local, disponível para todos os sistemas com navegador moderno.
