@@ -166,6 +166,37 @@
 
 [Modelo de responsabilidade compartilhada](https://aws.amazon.com/pt/compliance/shared-responsibility-model/)
 
+## 🛡️ Modelo de Responsabilidade Compartilhada - AWS
+
+> Na AWS, a segurança é uma **responsabilidade compartilhada** entre a AWS e o cliente.
+> 
+> • A **AWS** é responsável pela **segurança da nuvem** (infraestrutura).  
+> • O **cliente** é responsável pela **segurança na nuvem** (o que ele faz e configura).  
+
+### 🔍 Tabela de Responsabilidades
+
+| 🟩 **Responsabilidade da AWS**<br>*"Segurança da nuvem"* | 🟨 **Responsabilidade Compartilhada** | 🟦 **Responsabilidade do Cliente**<br>*"Segurança na nuvem"* |
+|-------------------------------|-------------------------------|-------------------------------|
+| ✅ Proteção da **infraestrutura global** (hardware, software, rede e data centers que executam os serviços da AWS). | 🔁 **Controles compartilhados**: AWS e cliente atuam em camadas diferentes do mesmo controle. | ✅ Depende dos **serviços utilizados**. Quanto mais controle o cliente tiver, mais responsabilidade ele assume. |
+| ✅ Gerencia a infraestrutura, sistema operacional e plataformas de serviços **abstraídos**, como **S3, DynamoDB**. | 🛠️ **Gerenciamento de patches**:<br>• AWS aplica patches na infraestrutura.<br>• Cliente aplica patches no SO convidado e apps. | 🖥️ Em serviços como **EC2 (IaaS)**, o cliente gerencia:<br>• Sistema operacional convidado<br>• Atualizações e patches<br>• Aplicativos<br>• Firewall (Security Group) |
+| ✅ Responsável por **controles físicos e ambientais**, como segurança de data center, energia, resfriamento, acesso físico. | ⚙️ **Gerenciamento de configuração**:<br>• AWS configura a infraestrutura.<br>• Cliente configura banco de dados, aplicativos, SO. | 🔐 Gerencia **dados armazenados**:<br>• Criptografia (ativa ou não)<br>• Classificação de dados<br>• Backups |
+| ✅ Pode **reduzir encargos operacionais** ao gerenciar controles que antes seriam do cliente, como segurança física. | 🎓 **Conhecimentos e treinamento**:<br>• AWS treina sua equipe interna.<br>• Cliente treina seus próprios funcionários. | 👥 Usa **IAM** para definir quem pode acessar o quê dentro do ambiente AWS. |
+| ✅ Fornece documentação sobre **conformidade** e auditorias (ex: ISO, SOC). | 📝 Cliente pode usar a documentação da AWS para realizar suas **verificações de conformidade**. | 🔐 Define **zonas seguras**, segmentações, roteamento de dados e permissões apropriadas. |
+
+### 📂 Tipos de Controles
+
+| Tipo de Controle | Descrição |
+|------------------|-----------|
+| **🟩 Herdado** | Controles totalmente gerenciados pela AWS, como segurança física e da infraestrutura. |
+| **🟨 Compartilhado** | AWS cuida de parte (infraestrutura), e o cliente cuida de outra parte (configurações, apps, dados). Ex: patches, configuração, treinamento. |
+| **🟦 Específico do Cliente** | Totalmente responsabilidade do cliente, de acordo com como ele usa os serviços da AWS. Ex: controle de dados, acesso, criptografia, zonas seguras. |
+
+> ✅ **Dica rápida**:  
+> • A AWS cuida da “base” (o prédio, os cabos, os servidores).  
+> • Você cuida do que faz com os serviços (quem acessa, o que é armazenado, como os dados são protegidos).  
+> • Os dois trabalham juntos para manter tudo seguro.
+
+
 <div align="center">
   <h3>Shared Responsability Model</h3>
   <img src="./assets/aws-shared-responsibility-model.png" alt="img"><br>
