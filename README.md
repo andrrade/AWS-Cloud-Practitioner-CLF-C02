@@ -790,3 +790,11 @@ Você pode pensar nas **6 perspectivas como uma empresa real migrando para a nuv
 * **Platform** constrói
 * **Security** protege
 * **Operations** garante que tudo continue funcionando
+
+---
+
+| Ferramenta               | Quando usar                             | Objetivo principal                       |
+| ------------------------ | --------------------------------------- | ---------------------------------------- |
+| **AWS CAF**              | Antes da migração                       | Avaliar e preparar a empresa para migrar |
+| **AWS Well-Architected** | Depois da migração / durante construção | Avaliar e otimizar arquiteturas na nuvem |
+
