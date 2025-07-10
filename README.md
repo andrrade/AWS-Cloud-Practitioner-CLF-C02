@@ -446,6 +446,8 @@
 
 ## Outros
 
+[Free Tier](https://aws.amazon.com/pt/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+
 [Tipos de Instâncias](https://aws.amazon.com/pt/ec2/instance-types/)
 
 ### 🚀 Tipos de Instância EC2 – Visão Geral
@@ -483,3 +485,308 @@
 * **Putty:** Cliente SSH gráfico muito usado em Windows (especialmente antes do Windows 10) para acessar servidores Linux/Unix via SSH.
 
 * **EC2 Instance Connect:** Ferramenta da AWS para acessar instâncias EC2 diretamente pelo navegador, sem necessidade de cliente externo ou chave local, disponível para todos os sistemas com navegador moderno.
+
+---
+
+# AWS Well-Architected Framework
+
+O **AWS Well-Architected Framework** é um conjunto de **boas práticas e princípios** que ajudam arquitetos de nuvem a **projetar workloads na AWS** que sejam:
+
+* **Seguros**
+* **Confiáveis**
+* **Eficientes**
+* **Econômicos**
+* **Sustentáveis**
+
+Ele é dividido em **6 pilares**:
+
+1. **Operational Excellence**
+2. **Security**
+3. **Reliability**
+4. **Performance Efficiency**
+5. **Cost Optimization**
+6. **Sustainability**
+
+## Operational Excellence
+
+Capacidade de **operar, monitorar e melhorar continuamente** sistemas para entregar **valor de negócio**, com foco em **automatização**, **aprendizado com falhas** e **melhoria contínua**.
+
+### 🔑 **Palavras-chave:**
+
+| Palavra-chave                 | Significado                                                |
+| ----------------------------- | ---------------------------------------------------------- |
+| **Run and monitor systems**   | Operar e monitorar os sistemas constantemente              |
+| **Business value**            | Entregar valor real ao negócio                             |
+| **Operations as Code**        | Infraestrutura como código (IaC)                           |
+| **Small, reversible changes** | Mudanças frequentes, pequenas e reversíveis                |
+| **Refine procedures**         | Refinar rotinas operacionais continuamente                 |
+| **Anticipate failure**        | Antecipar falhas antes que causem impacto                  |
+| **Learn from failures**       | Aprender com os erros e melhorar                           |
+| **Managed services**          | Usar serviços gerenciados para reduzir esforço operacional |
+| **Observability**             | Obter insights acionáveis sobre desempenho, custo, etc.    |
+
+## Security
+
+Capacidade de **proteger informações, sistemas e ativos**, mantendo o **valor de negócio**, por meio de **avaliação de riscos** e **estratégias de mitigação**.
+
+### 🔑 **Palavras-chave:**
+
+| Palavra-chave                       | Significado                                                    |
+| ----------------------------------- | -------------------------------------------------------------- |
+| **Protect information and systems** | Proteger dados, sistemas e recursos                            |
+| **Risk assessment & mitigation**    | Avaliar riscos e aplicar estratégias de mitigação              |
+| **Identity foundation (IAM)**       | Gerenciar identidade e acesso com **privilégio mínimo**        |
+| **Least privilege**                 | Usuário com acesso **apenas ao necessário**                    |
+| **No long-term credentials**        | Evitar senhas fixas; usar **credenciais temporárias**          |
+| **Enable traceability**             | Rastrear ações via **logs e métricas integradas**              |
+| **Security at all layers**          | Proteger **desde a borda até a aplicação**                     |
+| **Automate security**               | Automatizar boas práticas de segurança                         |
+| **Data protection**                 | **Criptografar** dados em trânsito e em repouso                |
+| **Keep people away from data**      | Evitar acesso humano direto aos dados                          |
+| **Incident response readiness**     | Estar preparado para incidentes com **simulações e automação** |
+| **Shared Responsibility Model**     | Modelo onde **AWS e cliente compartilham responsabilidades**   |
+
+## Reliability
+
+Capacidade de um sistema de se **recuperar de falhas**, **escalar dinamicamente** para atender à demanda e **lidar com interrupções**, como erros de configuração ou problemas de rede.
+
+### 🔑 **Palavras-chave:**
+
+| Palavra-chave                       | Significado                                                                  |
+| ----------------------------------- | ---------------------------------------------------------------------------- |
+| **Recover from disruptions**        | Recuperar de falhas de infraestrutura ou serviço                             |
+| **Auto recovery**                   | Recuperação automática de falhas com **automação**                           |
+| **Test recovery procedures**        | Simular falhas para testar recuperação                                       |
+| **Anticipate & remediate failures** | Antecipar e corrigir problemas antes que afetem o sistema                    |
+| **Horizontal scaling**              | Aumentar disponibilidade distribuindo a carga em **vários recursos menores** |
+| **Avoid single point of failure**   | Garantir que falhas em um recurso não derrubem tudo                          |
+| **Stop guessing capacity**          | Usar **Auto Scaling** para ajustar capacidade com precisão                   |
+| **Manage change via automation**    | Automatizar mudanças para reduzir erro humano                                |
+
+## Performance Efficiency
+
+Capacidade de **usar recursos computacionais de forma eficiente**, acompanhando **mudanças de demanda** e **evolução tecnológica**, para garantir desempenho ideal.
+
+### 🔑 **Palavras-chave:**
+
+| Palavra-chave                | Significado                                                            |
+| ---------------------------- | ---------------------------------------------------------------------- |
+| **Efficient resource usage** | Usar recursos de forma eficiente conforme a demanda                    |
+| **Adapt to changing demand** | Manter desempenho conforme o sistema cresce ou muda                    |
+| **Democratize technologies** | Tecnologias avançadas disponíveis como **serviços gerenciados**        |
+| **Go global in minutes**     | Implantar aplicações em **múltiplas regiões rapidamente**              |
+| **Serverless architectures** | Evitar gerenciamento de servidores (ex: Lambda, Fargate)               |
+| **Experiment more often**    | Testar e iterar com facilidade, com **baixo custo e risco**            |
+| **Mechanical sympathy**      | **Escolher os serviços AWS mais adequados** às necessidades do sistema |
+
+## Cost Optimization
+
+Capacidade de **entregar valor de negócio** com o **menor custo possível**, por meio de boas práticas como **pagar somente pelo uso**, **medir eficiência** e **usar serviços gerenciados** para reduzir gastos.
+
+### 🔑 **Palavras-chave:**
+
+| Palavra-chave                            | Significado                                                            |
+| ---------------------------------------- | ---------------------------------------------------------------------- |
+| **Lowest price point**                   | Entregar valor gastando o mínimo necessário                            |
+| **Pay only for what you use**            | Modelo sob demanda, sem desperdício de recursos                        |
+| **Adopt a consumption model**            | Pagar por consumo (ex: EC2 sob demanda, Lambda por execução)           |
+| **Measure efficiency (CloudWatch)**      | Monitorar uso de recursos para evitar gastos desnecessários            |
+| **No data center ops**                   | AWS cuida da infraestrutura física                                     |
+| **Focus on projects, not infra**         | Cliente foca em inovação, não em manutenção                            |
+| **Analyze and attribute costs (tags)**   | Usar **tags** para rastrear gastos por projeto, equipe, etc.           |
+| **ROI (Return on Investment)**           | Medir o retorno que cada gasto gera                                    |
+| **Use managed services**                 | Reduzir custo com **serviços gerenciados**, como RDS, DynamoDB, Lambda |
+| **Reduce total cost of ownership (TCO)** | Menor custo total ao longo do tempo                                    |
+
+## Sustainability
+
+Minimizar o **impacto ambiental** da execução de workloads na nuvem, promovendo **eficiência energética**, **uso consciente de recursos** e **adoção de tecnologias sustentáveis** ao longo do tempo.
+
+### 🔑 **Palavras-chave:**
+
+| Palavra-chave                           | Significado                                                                             |
+| --------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Minimize environmental impact**       | Reduzir impacto ambiental das cargas na nuvem                                           |
+| **Understand your impact**              | Medir e acompanhar indicadores de sustentabilidade                                      |
+| **Set sustainability goals**            | Estabelecer metas sustentáveis de longo prazo                                           |
+| **Right sizing & maximize utilization** | Ajustar recursos para evitar desperdício e melhorar eficiência                          |
+| **Adopt efficient tech**                | Usar hardware e software mais modernos e eficientes                                     |
+| **Design for flexibility**              | Projetar sistemas que se adaptem a novas tecnologias                                    |
+| **Use managed services**                | Reduzir infraestrutura física e automatizar práticas sustentáveis                       |
+| **Cold storage**                        | Armazenar dados raramente acessados em camadas econômicas e sustentáveis                |
+| **Adjust compute capacity**             | Redimensionar instâncias para reduzir consumo                                           |
+| **Reduce downstream impact**            | Tornar os serviços mais leves para que os usuários também economizem energia e recursos |
+
+---
+
+# CAF
+
+O **AWS CAF** é uma **estrutura estratégica** criada pela AWS para ajudar organizações a **planejar, executar e acelerar** sua jornada de **transformação digital na nuvem**, utilizando **as melhores práticas** aprendidas com milhares de clientes.
+
+Ele foca não só na tecnologia, mas em **áreas organizacionais e culturais** necessárias para o sucesso na adoção da nuvem.
+
+## 🔑 **Palavras-chave:**
+
+| Palavra-chave              | Significado                                       |
+| -------------------------- | ------------------------------------------------- |
+| **Digital transformation** | Transformação do negócio com uso de nuvem         |
+| **Comprehensive plan**     | Plano completo e bem estruturado                  |
+| **Capabilities**           | Habilidades que a organização precisa desenvolver |
+| **Best practices**         | Lições aprendidas e práticas recomendadas da AWS  |
+| **Perspectives**           | Seis áreas de foco que organizam as capacidades   |
+
+## 🧱 **6 Perspectivas do AWS CAF**
+
+Divididas em **duas categorias**: organizacionais e técnicas.
+
+### 📊 **Organizacionais (Business Capabilities):**
+
+1. **Business** – Garante que os investimentos em nuvem estejam alinhados aos **resultados do negócio**.
+2. **People** – Ajuda a organização a evoluir em **cultura, liderança e estrutura** para a nuvem.
+3. **Governance** – Foca em **controle, gestão de riscos e compliance** durante a transformação.
+
+### 🧪 **Técnicas (Technical Capabilities):**
+
+4. **Platform** – Foco em **construir, modernizar e escalar** plataformas e workloads na nuvem.
+5. **Security** – Garante **confidencialidade, integridade e disponibilidade** dos dados e workloads.
+6. **Operations** – Assegura que os **serviços em nuvem atendam às necessidades do negócio** com confiabilidade.
+
+## 🔄 **Domínios de Transformação do CAF** (ajudam a aplicar a nuvem de forma prática):
+
+| Domínio          | Foco                                         |
+| ---------------- | -------------------------------------------- |
+| **Technology**   | Migração, modernização, dados, analytics     |
+| **Process**      | Automatização, insights, machine learning    |
+| **Organization** | Equipes ágeis, modelos operacionais modernos |
+| **Product**      | Novos modelos de negócio e produtos digitais |
+
+## 🧭 **Fases da Transformação com o CAF:**
+
+1. **Envision** – Identificar oportunidades e mostrar como a nuvem traz resultados.
+2. **Align** – Avaliar lacunas nas capacidades e criar um plano de ação.
+3. **Launch** – Executar projetos piloto em produção e medir valor entregue.
+4. **Scale** – Ampliar os pilotos com foco em resultados de negócio.
+
+## 🎯 **Resumo das 6 Perspectivas do AWS CAF + Palavras-chave**
+
+### 🧠 1. **Business** (Negócios)
+
+Foco: **Alinhamento entre nuvem e objetivos de negócio**
+
+| Palavra-chave         | Dica para lembrar              |
+| --------------------- | ------------------------------ |
+| Strategy Management   | Estratégia                     |
+| Portfolio Management  | Portfólio de produtos/projetos |
+| Innovation Management | Inovação                       |
+| Product Management    | Produto                        |
+| Strategic Partnership | Parcerias estratégicas         |
+| Data Monetization     | Dados virando valor 💰         |
+| Business Insight      | Inteligência de negócios       |
+| **Data Science**      | Ciência de dados               |
+
+📌 **Dica**: Pense em tudo que impulsiona **lucro, inovação e valor comercial**.
+
+---
+
+### 👥 2. **People** (Pessoas)
+
+Foco: **Cultura, talentos e estrutura organizacional**
+
+| Palavra-chave                | Dica para lembrar                         |
+| ---------------------------- | ----------------------------------------- |
+| Culture Evolution            | Mudança cultural                          |
+| Transformational Leadership  | Liderança transformadora                  |
+| Cloud Fluency                | Fluência em nuvem                         |
+| **Workforce Transformation** | Transformação da força de trabalho        |
+| Change Acceleration          | Acelerar mudanças                         |
+| Organization Design          | Desenho organizacional                    |
+| Organizational Alignment     | Alinhamento da estrutura com a estratégia |
+
+📌 **Dica**: Tudo que envolve **pessoas, cultura, liderança e agilidade**.
+
+---
+
+### 🏛️ 3. **Governance** (Governança)
+
+Foco: **Controle, conformidade e gestão de valor**
+
+| Palavra-chave                    | Dica para lembrar                 |
+| -------------------------------- | --------------------------------- |
+| Program and Project Management   | Gestão de programas e projetos    |
+| Benefits Management              | Benefícios esperados              |
+| Risk Management                  | Riscos controlados                |
+| Cloud Financial Management       | Gestão financeira na nuvem 💰     |
+| Application Portfolio Management | Gestão do portfólio de apps       |
+| Data Governance                  | Governança de dados               |
+| Data Curation                    | Organização e curadoria dos dados |
+
+📌 **Dica**: Lembre de **controle, conformidade e tomada de decisão consciente**.
+
+---
+
+### 🧱 4. **Platform** (Plataforma)
+
+Foco: **Base técnica para soluções escaláveis e modernas**
+
+| Palavra-chave                               | Dica para lembrar                |
+| ------------------------------------------- | -------------------------------- |
+| Platform Architecture                       | Arquitetura da plataforma        |
+| Data Architecture                           | Arquitetura de dados             |
+| Platform Engineering                        | Engenharia de plataforma         |
+| Data Engineering                            | Engenharia de dados              |
+| Provisioning and Orchestration              | Provisionamento e orquestração   |
+| Modern Application Development              | Dev moderno (ex: microserviços)  |
+| Continuous Integration and Delivery (CI/CD) | Integração e entrega contínua 🔁 |
+
+📌 **Dica**: Tudo que constrói e entrega **infraestrutura moderna e automatizada**.
+
+---
+
+### 🔐 5. **Security** (Segurança)
+
+Foco: **Proteção de dados, identidade e infraestrutura**
+
+| Palavra-chave                  | Dica para lembrar                           |
+| ------------------------------ | ------------------------------------------- |
+| Security Governance            | Governança de segurança                     |
+| Security Assurance             | Garantia de segurança                       |
+| Identity and Access Management | IAM e controle de acesso 🔑                 |
+| Threat Detection               | Detecção de ameaças                         |
+| Vulnerability Management       | Gestão de vulnerabilidades                  |
+| Infrastructure Protection      | Proteção de infraestrutura                  |
+| **Data Protection**            | Proteção de dados (criptografia, backup...) |
+| Application Security           | Segurança de apps                           |
+| Incident Response              | Resposta a incidentes 🚨                    |
+
+📌 **Dica**: Tudo que protege o que está **dentro e fora da AWS**, antes, durante e depois do uso.
+
+---
+
+### 🔧 6. **Operations** (Operações)
+
+Foco: **Manutenção, monitoramento e melhoria contínua**
+
+| Palavra-chave                          | Dica para lembrar                   |
+| -------------------------------------- | ----------------------------------- |
+| Observability                          | Monitoramento com contexto 📈       |
+| Event Management (AIOps)               | Gestão de eventos com inteligência  |
+| Incident and Problem Management        | Gestão de incidentes e problemas    |
+| Change and Release Management          | Gestão de mudanças e lançamentos    |
+| Performance and Capacity Management    | Desempenho e capacidade             |
+| Configuration Management               | Gestão de configurações             |
+| Patch Management                       | Gestão de patches (correções)       |
+| Availability and Continuity Management | Alta disponibilidade e continuidade |
+| Application Management                 | Gestão de aplicações                |
+
+📌 **Dica**: Tudo que mantém o sistema **rodando bem, mesmo quando algo dá errado**.
+
+## ✅ Dica Final para Memorizar
+
+Você pode pensar nas **6 perspectivas como uma empresa real migrando para a nuvem**:
+
+* **Business** decide o porquê (\$)
+* **People** cuidam de quem vai fazer isso acontecer
+* **Governance** controla e fiscaliza
+* **Platform** constrói
+* **Security** protege
+* **Operations** garante que tudo continue funcionando
